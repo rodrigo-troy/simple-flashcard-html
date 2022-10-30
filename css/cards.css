@@ -1,5 +1,5 @@
 body {
-    background: url("./img/Cat_Footprint.png") ghostwhite center no-repeat no-repeat;
+    background: ghostwhite center no-repeat no-repeat;
 }
 
 .grid {
@@ -42,7 +42,7 @@ body {
 }
 
 .flip-card-front {
-    background-color: #6486ed;
+    background-color: #224bc7;
     text-align: center;
 }
 
