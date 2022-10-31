@@ -264,6 +264,257 @@
       "bold": [
         "What about"
       ]
+    },
+    {
+      "spanish": [
+        "Ellas retrasaron el juego porque estaba lloviendo."
+      ],
+      "english": [
+        "They delayed the game because it was raining."
+      ],
+      "bold": [
+        "it was raining"
+      ]
+    },
+    {
+      "spanish": [
+        "Cuando me enteré, ya era demasiado tarde."
+      ],
+      "english": [
+        "By the time I found out, it was too late."
+      ],
+      "bold": [
+        "By the time"
+      ]
+    },
+    {
+      "spanish": [
+        "Tenemos que entregar el formulario."
+      ],
+      "english": [
+        "We have to hand in the form."
+      ],
+      "bold": [
+        "hand in"
+      ]
+    },
+    {
+      "spanish": [
+        "No puedo recoger a Anne hoy. ¿Puedes recogerla?"
+      ],
+      "english": [
+        "I can't pick up Anne today. Can you pick her up?"
+      ],
+      "bold": [
+        "pick her up",
+        "pick up"
+      ]
+    },
+    {
+      "spanish": [
+        "La profesora va a repartir los exámenes."
+      ],
+      "english": [
+        "The teacher is going to hand out the exams."
+      ],
+      "bold": [
+        "hand out"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Podrías recoger a Michael?"
+      ],
+      "english": [
+        "Could you pick up Michael?"
+      ],
+      "bold": [
+        "pick up"
+      ]
+    },
+    {
+      "spanish": [
+        "Pregúntale a tu hermano quién es ese jugador alto."
+      ],
+      "english": [
+        "Ask your brother who that tall player is."
+      ],
+      "bold": [
+        "who",
+        "Ask"
+      ]
+    },
+    {
+      "spanish": [
+        "Si le roban su tarjeta de crédito, cancélela de inmediato."
+      ],
+      "english": [
+        "If your credit card gets stolen, cancel it right away."
+      ],
+      "bold": [
+        "gets stolen",
+        "right away"
+      ]
+    },
+    {
+      "spanish": [
+        "La carrera es de cien metros, que son más de 300 pies."
+      ],
+      "english": [
+        "The race is one hundred meters, which is over 300 feet."
+      ],
+      "bold": [
+        "is one hundred meters",
+        "which is"
+      ]
+    },
+    {
+      "spanish": [
+        "La piscina tiene de cien metros, que son más de 300 pies."
+      ],
+      "english": [
+        "The pool is one hundred meters, which is over 300 feet."
+      ],
+      "bold": [
+        "is one hundred meters",
+        "which is"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Con qué frecuencia usa Arthur las redes sociales?"
+      ],
+      "english": [
+        "How often does Arthur use social media?"
+      ],
+      "bold": [
+        "How often"
+      ]
+    },
+    {
+      "spanish": [
+        "Necesito conectarme y revisar mi correo electrónico."
+      ],
+      "english": [
+        "I need to go online and check my email."
+      ],
+      "bold": [
+        "go online",
+        "need to"
+      ]
+    },
+    {
+      "spanish": [
+        "Los enemigos estaban escondidos por toda la montaña."
+      ],
+      "english": [
+        "The enemies were hidden all over the mountain."
+      ],
+      "bold": [
+        "all over"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Te importaría cerrar la puerta?"
+      ],
+      "english": [
+        "Would you mind shutting the door?"
+      ],
+      "bold": [
+        "Would you mind"
+      ]
+    },
+    {
+      "spanish": [
+        "La calefacción no funciona en mi apartamento."
+      ],
+      "english": [
+        "The heat is not working in my apartment."
+      ],
+      "bold": [
+        "The heat"
+      ]
+    },
+    {
+      "spanish": [
+        "La calefacción se apagará sola."
+      ],
+      "english": [
+        "The heating will turn off by itself."
+      ],
+      "bold": [
+        "turn off",
+        "by itself"
+      ]
+    },
+    {
+      "spanish": [
+        "Ben da una clase sobre cómo maquillarse."
+      ],
+      "english": [
+        "Ben teaches a class on how to put on makeup.",
+        "Ben teaches a class about how to put on makeup."
+      ],
+      "bold": [
+        "teaches a class about",
+        "put on makeup"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Qué gasolinera tiene los baños más limpios?"
+      ],
+      "english": [
+        "Which gas station has the cleanest restrooms?"
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "El basurero está hecho de plástico."
+      ],
+      "english": [
+        "The garbage can is made of plastic."
+      ],
+      "bold": [
+        "is made of"
+      ]
+    },
+    {
+      "spanish": [
+        "Mi esposo se mudará el próximo mes."
+      ],
+      "english": [
+        "My husband will be moving next month."
+      ],
+      "bold": [
+        "will be moving"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Saliste en año nuevo?"
+      ],
+      "english": [
+        "Did you go out on New Year's Day?"
+      ],
+      "bold": [
+        "go out"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Puedes por favor vestirte?"
+      ],
+      "english": [
+        "Can you please get dressed?"
+      ],
+      "bold": [
+        "get dressed"
+      ]
     }
   ]
 }
