@@ -4,17 +4,15 @@ body {
 
 .grid {
     display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(3, 1fr);
-    padding: 20px;
+    grid-gap: 20px;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 30px;
 }
 
 .flip-card {
     background-color: transparent;
-    width: 200px;
-    height: 200px;
-
-    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    width: 250px;
+    height: 250px;
 }
 
 .flip-card-inner {
@@ -49,8 +47,9 @@ body {
 .flip-card-front p {
     display: block;
     margin: auto;
-    font-size: 35px;
+    font-size: 25px;
     color: white;
+    padding: 15px;
 }
 
 .flip-card-front > p > img {
@@ -65,6 +64,6 @@ body {
 .flip-card-back p {
     display: block;
     margin: auto;
-    font-size: 35px;
+    font-size: 25px;
     color: white;
 }
