@@ -41,19 +41,6 @@ body {
 
 .flip-card-front {
     background-color: #224bc7;
-    text-align: center;
-}
-
-.flip-card-front p {
-    display: block;
-    margin: auto;
-    font-size: 25px;
-    color: white;
-    padding: 15px;
-}
-
-.flip-card-front > p > img {
-    width: 80%;
 }
 
 .flip-card-back {
@@ -61,9 +48,10 @@ body {
     transform: rotateY(180deg);
 }
 
-.flip-card-back p {
+.flip-card-front p, .flip-card-back p {
     display: block;
     margin: auto;
     font-size: 25px;
     color: white;
+    padding: 15px;
 }
