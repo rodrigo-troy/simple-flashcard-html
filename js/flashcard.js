@@ -19,7 +19,6 @@
     httpRequest.send(null);
 
     function loadJSON(response) {
-        // Parse JSON string into object
         let json = JSON.parse(response);
 
         function getDivFront(phrase) {
@@ -49,8 +48,6 @@
         }
 
         json['phrases'].forEach((phrase) => {
-            console.log(phrase);
-
             const div = document.createElement('div');
             div.className = "flip-card";
 
