@@ -45,7 +45,6 @@
                 if (phrase.hasOwnProperty('bold') && Array.isArray(phrase['bold'])) {
                     phrase['bold'].forEach((bold) => {
                         if (englishPhrase.includes(bold)) {
-                            console.log(bold)
                             englishPhrase = englishPhrase.replace(bold,
                                                                   '<b>' + bold + '</b>')
                         }

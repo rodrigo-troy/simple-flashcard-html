@@ -684,6 +684,97 @@
       "bold": [
         "banking"
       ]
+    },
+    {
+      "spanish": [
+        "Nosotros hacemos karaoke todos los sábados."
+      ],
+      "english": [
+        "We do karaoke every Saturday."
+      ],
+      "bold": [
+        "do karaoke"
+      ]
+    },
+    {
+      "spanish": [
+        "Nosotros hacemos karaoke todos los sábados."
+      ],
+      "english": [
+        "We do karaoke every Saturday."
+      ],
+      "bold": [
+        "do karaoke"
+      ]
+    },
+    {
+      "spanish": [
+        "Todos los restaurantes están cerrados."
+      ],
+      "english": [
+        "All of the restaurants are closed."
+      ],
+      "bold": [
+        "All of",
+        "are closed"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Puedo caminar a la librería desde aquí?"
+      ],
+      "english": [
+        "Can I walk to the bookstore from here?"
+      ],
+      "bold": [
+        "walk to",
+        "from here"
+      ]
+    },
+    {
+      "spanish": [
+        "Pregúntale a tu padre."
+      ],
+      "english": [
+        "Ask your father."
+      ],
+      "bold": [
+        "Ask"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Qué restaurante está más cerca?"
+      ],
+      "english": [
+        "Which restaurant is closer?"
+      ],
+      "bold": [
+        "Which"
+      ]
+    },
+    {
+      "spanish": [
+        "Nosotras hicimos brunch en pascua."
+      ],
+      "english": [
+        "We made brunch on easter."
+      ],
+      "bold": [
+        "made",
+        "on easter"
+      ]
+    },
+    {
+      "spanish": [
+        "Quiero escribir tan bien como John."
+      ],
+      "english": [
+        "I want to write as well as John."
+      ],
+      "bold": [
+        "as well as"
+      ]
     }
   ]
 }
