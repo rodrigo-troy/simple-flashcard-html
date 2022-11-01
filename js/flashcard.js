@@ -37,24 +37,24 @@
         function getDivBack(phrase) {
             const divBack = document.createElement('div');
             divBack.className = 'flip-card-back';
-            const divBackP = document.createElement('p');
 
             if (phrase.hasOwnProperty('english') && Array.isArray(phrase['english'])) {
-                let englishPhrase = phrase['english'][Math.floor(Math.random() * phrase['english'].length)];
+                phrase['english'].forEach(englishPhrase => {
+                    const divBackP = document.createElement('p');
+                    if (phrase.hasOwnProperty('bold') && Array.isArray(phrase['bold'])) {
+                        phrase['bold'].forEach((bold) => {
+                            if (englishPhrase.includes(bold)) {
+                                englishPhrase = englishPhrase.replace(bold,
+                                                                      '<b>' + bold + '</b>')
+                            }
+                        });
+                    }
 
-                if (phrase.hasOwnProperty('bold') && Array.isArray(phrase['bold'])) {
-                    phrase['bold'].forEach((bold) => {
-                        if (englishPhrase.includes(bold)) {
-                            englishPhrase = englishPhrase.replace(bold,
-                                                                  '<b>' + bold + '</b>')
-                        }
-                    });
-                }
-
-                divBackP.innerHTML = englishPhrase;
+                    divBackP.innerHTML = englishPhrase;
+                    divBack.appendChild(divBackP);
+                });
             }
 
-            divBack.appendChild(divBackP);
             return divBack;
         }
 

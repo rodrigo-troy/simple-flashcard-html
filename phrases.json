@@ -1050,6 +1050,86 @@
         "takes a trip",
         "to Africa"
       ]
+    },
+    {
+      "spanish": [
+        "Al final del camino, deténgase y gire a la izquierda."
+      ],
+      "english": [
+        "At the end of the road, stop and turn left."
+      ],
+      "bold": [
+        "At the end of",
+        "turn left"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Hay algunas ciudades grandes allí?"
+      ],
+      "english": [
+        "Are there any big cities there?"
+      ],
+      "bold": [
+        "any"
+      ]
+    },
+    {
+      "spanish": [
+        "Fumar adentro no es seguro."
+      ],
+      "english": [
+        "Smoking indoors is not safe."
+      ],
+      "bold": [
+        "is not safe"
+      ]
+    },
+    {
+      "spanish": [
+        "Ha parecido un poco aburrido desde que renunció al trabajo."
+      ],
+      "english": [
+        "He has seemed a bit bored since he quit the job.",
+        "He has seemed a bit bored since he resigned from the job."
+      ],
+      "bold": [
+        "has",
+        "since"
+      ]
+    },
+    {
+      "spanish": [
+        "Quiero un trabajo de medio tiempo que pague cuarenta dólares la hora."
+      ],
+      "english": [
+        "I want a part-time job that pays forty dollars an hour."
+      ],
+      "bold": [
+        "an hour"
+      ]
+    },
+    {
+      "spanish": [
+        "Ella es chef de tiempo completo en este restaurante."
+      ],
+      "english": [
+        "She is a full-time chef at this restaurant."
+      ],
+      "bold": [
+        "a full-time chef"
+      ]
+    },
+    {
+      "spanish": [
+        "Estoy postulando a un trabajo de tiempo completo."
+      ],
+      "english": [
+        "I am applying for a full-time job."
+      ],
+      "bold": [
+        "applying for"
+      ]
     }
   ]
 }

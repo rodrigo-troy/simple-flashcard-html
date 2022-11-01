@@ -40,18 +40,39 @@ body {
 }
 
 .flip-card-front {
-    background-color: #224bc7;
+    background-color: #34568b;
 }
 
 .flip-card-back {
-    background-color: dimgrey;
+    flex-wrap: wrap;
+    background-color: #5d7ebb;
     transform: rotateY(180deg);
 }
 
-.flip-card-front p, .flip-card-back p {
+.flip-card-front p {
     display: block;
     margin: auto;
     font-size: 25px;
     color: white;
     padding: 15px;
+}
+
+.flip-card-back p {
+    flex-basis: 100%;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+}
+
+.flip-card-back > p > b {
+    color: #F5DF4D;
+}
+
+.flip-card-back > p > b:nth-child(2) {
+    color: #FA7A35;
+}
+
+.flip-card-back > p > b:nth-child(3) {
+    color: #FDAC53;
 }
