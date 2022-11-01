@@ -40,7 +40,19 @@
             const divBackP = document.createElement('p');
 
             if (phrase.hasOwnProperty('english') && Array.isArray(phrase['english'])) {
-                divBackP.innerText = phrase['english'][Math.floor(Math.random() * phrase['english'].length)];
+                let englishPhrase = phrase['english'][Math.floor(Math.random() * phrase['english'].length)];
+
+                if (phrase.hasOwnProperty('bold') && Array.isArray(phrase['bold'])) {
+                    phrase['bold'].forEach((bold) => {
+                        if (englishPhrase.includes(bold)) {
+                            console.log(bold)
+                            englishPhrase = englishPhrase.replace(bold,
+                                                                  '<b>' + bold + '</b>')
+                        }
+                    });
+                }
+
+                divBackP.innerHTML = englishPhrase;
             }
 
             divBack.appendChild(divBackP);
