@@ -515,6 +515,175 @@
       "bold": [
         "get dressed"
       ]
+    },
+    {
+      "spanish": [
+        "¿Quien va a pagarlo?"
+      ],
+      "english": [
+        "Who is going to pay for it?"
+      ],
+      "bold": [
+        "to pay for it"
+      ]
+    },
+    {
+      "spanish": [
+        "Dejamos la computadora portátil en el estante como de costumbre."
+      ],
+      "english": [
+        "We left the laptop on the shelf as usual."
+      ],
+      "bold": [
+        "on the shelf"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Podemos ir a la tienda, por favor?"
+      ],
+      "english": [
+        "Can we go to the store, please?",
+        "Can we please go to the store?"
+      ],
+      "bold": [
+        "on the shelf"
+      ]
+    },
+    {
+      "spanish": [
+        "Es hora de vestirse para la escuela."
+      ],
+      "english": [
+        "It's time to get dressed for school."
+      ],
+      "bold": [
+        "get dressed"
+      ]
+    },
+    {
+      "spanish": [
+        "Enviarán el cheque por correo."
+      ],
+      "english": [
+        "They are sending the check by mail."
+      ],
+      "bold": [
+        "by mail"
+      ]
+    },
+    {
+      "spanish": [
+        "Vive en una casa grande."
+      ],
+      "english": [
+        "He lives in a big house."
+      ],
+      "bold": [
+        "in"
+      ]
+    },
+    {
+      "spanish": [
+        "Te veo en el parque."
+      ],
+      "english": [
+        "See you at/in the park."
+      ],
+      "bold": [
+        "at/in"
+      ],
+      "detail": "Both 'in the park' and 'at the park' are grammatically correct. However, they mean two different things. 'At the park’ means the person is at the area of the park. While 'in the park’ means more than the person is enclosed within the park."
+    },
+    {
+      "spanish": [
+        "El gobierno ha agregado un impuesto a los cigarrillos."
+      ],
+      "english": [
+        "The government has added a tax on cigarettes."
+      ],
+      "bold": [
+        "tax on"
+      ]
+    },
+    {
+      "spanish": [
+        "¿En qué calle está la zapatería?"
+      ],
+      "english": [
+        "What street is the shoe store on?"
+      ],
+      "bold": [
+        "on"
+      ]
+    },
+    {
+      "spanish": [
+        "¿A qué hora llega el avión?"
+      ],
+      "english": [
+        "What time does the plane arrive?"
+      ],
+      "bold": [
+        "What time"
+      ]
+    },
+    {
+      "spanish": [
+        "A qué sabe esto?"
+      ],
+      "english": [
+        "What does it taste like?"
+      ],
+      "bold": [
+        "like"
+      ]
+    },
+    {
+      "spanish": [
+        "¿A quién apoya tu hermano?"
+      ],
+      "english": [
+        "Who is your brother rooting for?"
+      ],
+      "bold": [
+        "Who",
+        "rooting for"
+      ]
+    },
+    {
+      "spanish": [
+        "Marco me pisó el dedo del pie y fue muy doloroso."
+      ],
+      "english": [
+        "Marco stepped on my toe and it was very painful."
+      ],
+      "bold": [
+        "stepped on"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Cómo va el nuevo trabajo?"
+      ],
+      "english": [
+        "How is the new job going?"
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "Hago mis operaciones bancarias en línea.",
+        "Hago mis operaciones bancarias por Internet."
+      ],
+      "english": [
+        "I do my banking online."
+      ],
+      "bold": [
+        "banking"
+      ]
     }
   ]
 }
