@@ -1787,6 +1787,239 @@
       "bold": [
         "them"
       ]
+    },
+    {
+      "spanish": [
+        "Es diferente a su hermana."
+      ],
+      "english": [
+        "He is different from his sister."
+      ],
+      "bold": [
+        "different from"
+      ],
+      "detail": "In formal writing, different from is generally preferred over different than. 'From' has been used with the verb 'differ' since at least the 1500s, which paved the way for 'different from' to be readily accepted into the lexicon"
+    },
+    {
+      "spanish": [
+        "Él me sonrió."
+      ],
+      "english": [
+        "He smiled at me."
+      ],
+      "bold": [
+        "smiled at"
+      ]
+    },
+    {
+      "spanish": [
+        "Él te sonrió."
+      ],
+      "english": [
+        "He smiled at you."
+      ],
+      "bold": [
+        "smiled at"
+      ]
+    },
+    {
+      "spanish": [
+        "Ellos te sonrieron."
+      ],
+      "english": [
+        "They smiled at you"
+      ],
+      "bold": [
+        "smiled at"
+      ]
+    },
+    {
+      "spanish": [
+        "El aceptó tu invitación a tu fiesta."
+      ],
+      "english": [
+        "He accepted your invitation to your party."
+      ],
+      "bold": [
+        "invitation to"
+      ]
+    },
+    {
+      "spanish": [
+        "El aceptó tu invitación al evento."
+      ],
+      "english": [
+        "He accepted your invitation to the event."
+      ],
+      "bold": [
+        "invitation to"
+      ]
+    },
+    {
+      "spanish": [
+        "Tony planea probar el esquí este invierno."
+      ],
+      "english": [
+        "Tony is planning to give skiing a try this winter."
+      ],
+      "bold": [
+        "give skiing a try"
+      ]
+    },
+    {
+      "spanish": [
+        "Intentalo."
+      ],
+      "english": [
+        "Give it a try.",
+        "Give it a shot."
+      ],
+      "bold": [
+        ""
+      ],
+      "detail": "Definition: to do something in order to find out what happens or to find out whether something is good, suitable, effective etc"
+    },
+    {
+      "spanish": [
+        "Abre tu libro en la página 5."
+      ],
+      "english": [
+        "Open your book to page 5."
+      ],
+      "bold": [
+        "to"
+      ]
+    },
+    {
+      "spanish": [
+        "Estoy deseando conocerte."
+      ],
+      "english": [
+        "I look forward to meeting you.",
+        "I'm looking forward to meeting you."
+      ],
+      "bold": [
+        "meeting",
+        "look forward to"
+      ]
+    },
+    {
+      "spanish": [
+        "Como si me importara."
+      ],
+      "english": [
+        "As if I cared."
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "Hace calor al sol pero está fresco a la sombra."
+      ],
+      "english": [
+        "It is hot in the sun but cool in the shade."
+      ],
+      "bold": [
+        "in the shade",
+        "in the sun"
+      ]
+    },
+    {
+      "spanish": [
+        "Retira lo dicho.",
+        "Retráctate"
+      ],
+      "english": [
+        "You take that back."
+      ],
+      "bold": [
+        "take that back"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Qué película recibió más premios el año pasado?"
+      ],
+      "english": [
+        "Which film received the most awards last year?",
+        "Which movie received the most awards last year?"
+      ],
+      "bold": [
+        "the most"
+      ]
+    },
+    {
+      "spanish": [
+        "Consúltalo con la almohada."
+      ],
+      "english": [
+        "Sleep on it."
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "¡Que duermas bien!"
+      ],
+      "english": [
+        "Sleep tight!"
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "Tuve un fin de semana tranquilo."
+      ],
+      "english": [
+        "I had a quiet weekend.",
+        "I had a low-key weekend."
+      ],
+      "bold": [
+        "quiet",
+        "low-key"
+      ]
+    },
+    {
+      "spanish": [
+        "¿El precio incluye el envío?"
+      ],
+      "english": [
+        "Does the price include shipping?"
+      ],
+      "bold": [
+        "shipping"
+      ]
+    },
+    {
+      "spanish": [
+        "Trato de planificar con anticipación cuando preparo mis clases."
+      ],
+      "english": [
+        "I try to plan ahead when preparing my classes."
+      ],
+      "bold": [
+        "plan ahead"
+      ]
+    },
+    {
+      "spanish": [
+        "He estado en una dieta líquida durante algunos días.",
+        "He estado unos días con una dieta liquida.",
+        "Llevo unos días con una dieta liquida."
+      ],
+      "english": [
+        "I have been on a liquid diet for a few days.",
+        "I have been on a liquid diet for some days."
+      ],
+      "bold": [
+        "on a liquid diet"
+      ]
     }
   ]
 }
