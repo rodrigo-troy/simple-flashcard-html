@@ -927,18 +927,6 @@
     },
     {
       "spanish": [
-        "Regresó de su baja por enfermedad todavía luciendo un poco cetrina."
-      ],
-      "english": [
-        "She returned from her sick leave still looking a bit sallow."
-      ],
-      "bold": [
-        "sick leave",
-        "sallow"
-      ]
-    },
-    {
-      "spanish": [
         "Esa niña debería dejar de reírse de los monos.",
         "Ese niño debería dejar de reírse de los monos."
       ],
@@ -1798,7 +1786,7 @@
       "bold": [
         "different from"
       ],
-      "detail": "In formal writing, different from is generally preferred over different than. 'From' has been used with the verb 'differ' since at least the 1500s, which paved the way for 'different from' to be readily accepted into the lexicon"
+      "detail": "In formal writing, 'different from' is generally preferred over 'different than'. 'From' has been used with the verb 'differ' since at least the 1500s, which paved the way for 'different from' to be readily accepted into the lexicon"
     },
     {
       "spanish": [
@@ -2019,6 +2007,145 @@
       ],
       "bold": [
         "on a liquid diet"
+      ]
+    },
+    {
+      "spanish": [
+        "Tengo un título en ciencias."
+      ],
+      "english": [
+        "I have a degree in science."
+      ],
+      "bold": [
+        "a degree in"
+      ]
+    },
+    {
+      "spanish": [
+        "Supe de tu nuevo auto."
+      ],
+      "english": [
+        "I heard about your new car."
+      ],
+      "bold": [
+        "heard about"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Dónde se enteró de eso?",
+        "¿Dónde te enteraste de eso?",
+        "¿Dónde supiste acerca de eso?"
+      ],
+      "english": [
+        "Where did you hear about that?"
+      ],
+      "bold": [
+        "hear about"
+      ]
+    },
+    {
+      "spanish": [
+        "Enseño español a cambio de lecciones de inglés gratis."
+      ],
+      "english": [
+        "I teach Spanish in exchange for free English lessons."
+      ],
+      "bold": [
+        "teach Spanish",
+        "in exchange for"
+      ]
+    },
+    {
+      "spanish": [
+        "Trabajará para nosotros a cambio de mucho dinero."
+      ],
+      "english": [
+        "He will work for us in exchange for a lot of money."
+      ],
+      "bold": [
+        "in exchange for",
+        "work for us",
+        "a lot of money"
+      ]
+    },
+    {
+      "spanish": [
+        "Permanecerá en la cárcel hasta que vaya a la corte."
+      ],
+      "english": [
+        "He will stay in jail until he goes to court."
+      ],
+      "bold": [
+        "in jail",
+        "goes"
+      ]
+    },
+    {
+      "spanish": [
+        "Aunque era peligroso, cruzó la frontera."
+      ],
+      "english": [
+        "Although it was dangerous, he crossed the border.",
+        "Though it was dangerous, he crossed the border.",
+        "Even though it was dangerous, he crossed the border."
+      ],
+      "bold": [
+        "Although",
+        "Though",
+        "Even though",
+        "crossed"
+      ],
+      "detail": "Though is more common than although in general and it is much more common than although in speaking. For emphasis, we often use even with though (but not with although)."
+    },
+    {
+      "spanish": [
+        "¿Sabes qué día el líder va a los tribunales?"
+      ],
+      "english": [
+        "Do you know what day the leader goes to court?",
+        "Do you know what day the leader is going to court??"
+      ],
+      "bold": [
+        "what day",
+        "goes"
+      ]
+    },
+    {
+      "spanish": [
+        "Me dio su suéter a cambio de mi camiseta."
+      ],
+      "english": [
+        "He gave me his sweater in exchange for my shirt."
+      ],
+      "bold": [
+        "in exchange for"
+      ]
+    },
+    {
+      "spanish": [
+        "El dinero fue la causa de todos sus problemas."
+      ],
+      "english": [
+        "Money was the cause of all his problems."
+      ],
+      "bold": [
+        "the cause of"
+      ]
+    },
+    {
+      "spanish": [
+        "Aunque robó el banco, no fue a la cárcel."
+      ],
+      "english": [
+        "Though he robbed the bank, he didn't go to jail.",
+        "Although he robbed the bank, he didn't go to jail.",
+        "Even though he robbed the bank, he didn't go to jail."
+      ],
+      "bold": [
+        "Though",
+        "Although",
+        "Even though"
       ]
     }
   ]
