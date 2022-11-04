@@ -2147,6 +2147,93 @@
         "Although",
         "Even though"
       ]
+    },
+    {
+      "spanish": [
+        "El niño pequeño está delante de nosotros en la fila."
+      ],
+      "english": [
+        "The little boy is ahead of us in line."
+      ],
+      "bold": [
+        "ahead of",
+        "in line"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Sigues en contacto con ella?"
+      ],
+      "english": [
+        "Are you still in contact with her?"
+      ],
+      "bold": [
+        "in contact with"
+      ]
+    },
+    {
+      "spanish": [
+        "Hay más de mil millones de personas en Asia."
+      ],
+      "english": [
+        "There are over one billion people in Asia.",
+        "There are over a billion people in Asia."
+      ],
+      "bold": [
+        "over"
+      ]
+    },
+    {
+      "spanish": [
+        "Todavía estoy en contacto con Julia."
+      ],
+      "english": [
+        "I am still in contact with Julia.",
+        "I am still in touch with Julia."
+      ],
+      "bold": [
+        "in contact with",
+        "in touch with"
+      ]
+    },
+    {
+      "spanish": [
+        "Tengo que ponerme en contacto con el banco y arreglar un sobregiro."
+      ],
+      "english": [
+        "I must get in touch with the bank and arrange an overdraft.",
+        "I must get in contact with the bank and arrange an overdraft."
+      ],
+      "bold": [
+        "in contact with",
+        "in touch with"
+      ]
+    },
+    {
+      "spanish": [
+        "Tengo que ponerme en contacto con el banco y arreglar un sobregiro."
+      ],
+      "english": [
+        "I must get in touch with the bank and arrange an overdraft.",
+        "I must get in contact with the bank and arrange an overdraft."
+      ],
+      "bold": [
+        "in contact with",
+        "in touch with"
+      ]
+    },
+    {
+      "spanish": [
+        "Tengo que ponerme en contacto con el banco y arreglar un sobregiro."
+      ],
+      "english": [
+        "I must get in touch with the bank and arrange an overdraft.",
+        "I must get in contact with the bank and arrange an overdraft."
+      ],
+      "bold": [
+        "in contact with",
+        "in touch with"
+      ]
     }
   ]
 }
