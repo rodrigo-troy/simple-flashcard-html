@@ -2219,6 +2219,32 @@
       "bold": [
         "allergic to"
       ]
+    },
+    {
+      "spanish": [
+        "Date prisa y vístete para ir a clase.",
+        "Date prisa y vístete para la clase."
+      ],
+      "english": [
+        "Hurry up and get dressed for class.",
+        "Hurry up and dress for class."
+      ],
+      "bold": [
+        "Hurry up",
+        "get dressed",
+        "for class"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Cuánto tardará en cruzar el océano?"
+      ],
+      "english": [
+        "How long will it take to cross the ocean?"
+      ],
+      "bold": [
+        "How long will it take to"
+      ]
     }
   ]
 }
