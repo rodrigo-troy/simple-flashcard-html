@@ -2211,28 +2211,13 @@
     },
     {
       "spanish": [
-        "Tengo que ponerme en contacto con el banco y arreglar un sobregiro."
+        "Soy alergico a las nueces."
       ],
       "english": [
-        "I must get in touch with the bank and arrange an overdraft.",
-        "I must get in contact with the bank and arrange an overdraft."
+        "I'm allergic to nuts."
       ],
       "bold": [
-        "in contact with",
-        "in touch with"
-      ]
-    },
-    {
-      "spanish": [
-        "Tengo que ponerme en contacto con el banco y arreglar un sobregiro."
-      ],
-      "english": [
-        "I must get in touch with the bank and arrange an overdraft.",
-        "I must get in contact with the bank and arrange an overdraft."
-      ],
-      "bold": [
-        "in contact with",
-        "in touch with"
+        "allergic to"
       ]
     }
   ]
