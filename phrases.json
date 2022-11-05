@@ -2329,6 +2329,30 @@
       "bold": [
         ""
       ]
+    },
+    {
+      "spanish": [
+        "Prefiero el té al café."
+      ],
+      "english": [
+        "I prefer tea to coffee."
+      ],
+      "bold": [
+        "prefer",
+        "to"
+      ]
+    },
+    {
+      "spanish": [
+        "Prefiero un bolígrafo azul a un bolígrafo rojo."
+      ],
+      "english": [
+        "I prefer a blue pen to a red pen."
+      ],
+      "bold": [
+        "prefer",
+        "to"
+      ]
     }
   ]
 }
