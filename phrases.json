@@ -433,7 +433,8 @@
         "The heat is not working in my apartment."
       ],
       "bold": [
-        "The heat"
+        "The heat",
+        "apartment"
       ]
     },
     {
@@ -1489,17 +1490,6 @@
     },
     {
       "spanish": [
-        "La máquina fue construida en Alemania."
-      ],
-      "english": [
-        "The machine was built in Germany."
-      ],
-      "bold": [
-        "was built in"
-      ]
-    },
-    {
-      "spanish": [
         "La máquina fue construida en 1900."
       ],
       "english": [
@@ -2244,6 +2234,100 @@
       ],
       "bold": [
         "How long will it take to"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Cuál es el significado de esta palabra?"
+      ],
+      "english": [
+        "What is the meaning of this word?"
+      ],
+      "bold": [
+        "What is the meaning of"
+      ]
+    },
+    {
+      "spanish": [
+        "El es responsable de la salud y la seguridad."
+      ],
+      "english": [
+        "He is responsible for health and safety.",
+        "He is accountable for health and safety."
+      ],
+      "bold": [
+        "responsible for",
+        "accountable for"
+      ]
+    },
+    {
+      "spanish": [
+        "Soy adicta al chocolate."
+      ],
+      "english": [
+        "I am addicted to chocolate.",
+        "I'm a chocolate addict."
+      ],
+      "bold": [
+        "addicted to",
+        "a chocolate addict"
+      ]
+    },
+    {
+      "spanish": [
+        "Está casado con el director."
+      ],
+      "english": [
+        "He is married to the director."
+      ],
+      "bold": [
+        "married to"
+      ]
+    },
+    {
+      "spanish": [
+        "Él tiene experiencia en diseño."
+      ],
+      "english": [
+        "He is experienced in design."
+      ],
+      "bold": [
+        "experienced in"
+      ]
+    },
+    {
+      "spanish": [
+        "Ella siempre es educada con todas."
+      ],
+      "english": [
+        "She is always polite to everyone."
+      ],
+      "bold": [
+        "polite to"
+      ]
+    },
+    {
+      "spanish": [
+        "El tren está llegando a la estación."
+      ],
+      "english": [
+        "The train is pulling into the station.",
+        "The train is arriving at the station."
+      ],
+      "bold": [
+        "pulling into",
+        "arriving at"
+      ]
+    },
+    {
+      "spanish": [
+        "Te veo luego."
+      ],
+      "english": [
+        "See you later."
+      ],
+      "bold": [
+        ""
       ]
     }
   ]
