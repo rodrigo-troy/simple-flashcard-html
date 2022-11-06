@@ -2353,6 +2353,87 @@
         "prefer",
         "to"
       ]
+    },
+    {
+      "spanish": [
+        "Trata de ser agradable."
+      ],
+      "english": [
+        "Try to be pleasant."
+      ],
+      "bold": [
+        "pleasant"
+      ]
+    },
+    {
+      "spanish": [
+        "No tiene sentido."
+      ],
+      "english": [
+        "It makes no sense.",
+        "It doesn't make sense."
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "Lo hice porque sí."
+      ],
+      "english": [
+        "I did it just because."
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "Está casada con un médico."
+      ],
+      "english": [
+        "She is married to a doctor."
+      ],
+      "bold": [
+        "married to"
+      ]
+    },
+    {
+      "spanish": [
+        "A veces va a pie al trabajo.",
+        "A veces camina al trabajo."
+      ],
+      "english": [
+        "She walks to work sometimes."
+      ],
+      "bold": [
+        "walks to"
+      ]
+    },
+    {
+      "spanish": [
+        "No le hagas caso."
+      ],
+      "english": [
+        "Don't take notice of him.",
+        "Don't take notice of her."
+      ],
+      "bold": [
+        ""
+      ]
+    },
+    {
+      "spanish": [
+        "Lo he hecho."
+      ],
+      "english": [
+        "I have done so.",
+        "I have done it."
+      ],
+      "bold": [
+        "have done"
+      ]
     }
   ]
 }
