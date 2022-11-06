@@ -2434,6 +2434,158 @@
       "bold": [
         "have done"
       ]
+    },
+    {
+      "spanish": [
+        "¿Estás a la altura de las circunstancias?"
+      ],
+      "english": [
+        "Are you up to the task?",
+        "I have done it."
+      ],
+      "bold": [
+        "up to the task"
+      ],
+      "definition": "To be \"up to the task\" means to have the ability, motivation, and desire to do something difficult."
+    },
+    {
+      "spanish": [
+        "Salimos a toda prisa."
+      ],
+      "english": [
+        "We left in a hurry."
+      ],
+      "bold": [
+        "in a hurry"
+      ]
+    },
+    {
+      "spanish": [
+        "Ella está comprometida con Daniel."
+      ],
+      "english": [
+        "She is engaged to Daniel."
+      ],
+      "bold": [
+        "engaged to"
+      ]
+    },
+    {
+      "spanish": [
+        "Acordamos pagar el auto en cuotas."
+      ],
+      "english": [
+        "We agreed to pay for the car in installments."
+      ],
+      "bold": [
+        "agreed to",
+        "in installments"
+      ]
+    },
+    {
+      "spanish": [
+        "Estuve fuera por tres semanas."
+      ],
+      "english": [
+        "I was away for three weeks."
+      ],
+      "bold": [
+        "away"
+      ]
+    },
+    {
+      "spanish": [
+        "El precio es para visitantes mayores de 65 años."
+      ],
+      "english": [
+        "The price is for visitor 65 and over."
+      ],
+      "bold": [
+        "is",
+        "65 and over"
+      ]
+    },
+    {
+      "spanish": [
+        "Estoy apurado."
+      ],
+      "english": [
+        "I am in a hurry."
+      ],
+      "bold": [
+        "in a hurry"
+      ]
+    },
+    {
+      "spanish": [
+        "Nosotras estamos de vacaciones"
+      ],
+      "english": [
+        "We are on vacation."
+      ],
+      "bold": [
+        "on vacation"
+      ]
+    },
+    {
+      "spanish": [
+        "Suelo quedarme despierto hasta tarde."
+      ],
+      "english": [
+        "I usually stay up late."
+      ],
+      "bold": [
+        "stay up",
+        "late"
+      ]
+    },
+    {
+      "spanish": [
+        "Se lo haré saber."
+      ],
+      "english": [
+        "I will let him know."
+      ],
+      "bold": [
+        "let",
+        "know"
+      ]
+    },
+    {
+      "spanish": [
+        "Siempre se sale con la suya."
+      ],
+      "english": [
+        "He always gets his way."
+      ],
+      "bold": [
+        "gets",
+        "way"
+      ]
+    },
+    {
+      "spanish": [
+        "Siempre me salgo con la mía."
+      ],
+      "english": [
+        "I always get my way."
+      ],
+      "bold": [
+        "get",
+        "way"
+      ]
+    },
+    {
+      "spanish": [
+        "Siempre te sales con la tuya."
+      ],
+      "english": [
+        "You always get your way."
+      ],
+      "bold": [
+        "get",
+        "way"
+      ]
     }
   ]
 }
