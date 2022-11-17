@@ -2586,6 +2586,437 @@
         "get",
         "way"
       ]
+    },
+    {
+      "spanish": [
+        "¿Tu hija se siente mejor?"
+      ],
+      "english": [
+        "Does your daughter feel better?",
+        "Is your child feeling better?"
+      ],
+      "bold": [
+        "Is",
+        "Does",
+        "feel better",
+        "feeling better"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Por qué Wall Street se está apoderando de casas familiares?"
+      ],
+      "english": [
+        "Why is Wall Street snapping up family homes?"
+      ],
+      "bold": [
+        "snapping up"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Está la reunión en el calendario?"
+      ],
+      "english": [
+        "Is the meeting on the schedule?"
+      ],
+      "bold": [
+        "on the schedule"
+      ]
+    },
+    {
+      "spanish": [
+        "Ha practicado hockey todos los días desde entonces."
+      ],
+      "english": [
+        "He has practiced hockey every day since then."
+      ],
+      "bold": [
+        "since then"
+      ]
+    },
+    {
+      "spanish": [
+        "¿Has visto al hombre en el póster?"
+      ],
+      "english": [
+        "Have you seen the man on the poster?"
+      ],
+      "bold": [
+        "on the poster"
+      ]
+    },
+    {
+      "spanish": [
+        "Mi amiga y yo tenemos la misma edad.",
+        "Mi amigo y yo tenemos la misma edad."
+      ],
+      "english": [
+        "My friend and I are the same age."
+      ],
+      "bold": [
+        "are the same"
+      ]
+    },
+    {
+      "spanish": [
+        "Es una persona muy amable."
+      ],
+      "english": [
+        "He is a very kind person."
+      ],
+      "bold": [
+        "a",
+        "kind person"
+      ]
+    },
+    {
+      "spanish": [
+        "La tormenta le costó a la ciudad miles de millones de dólares."
+      ],
+      "english": [
+        "The storm cost the city billions of dollars."
+      ],
+      "bold": [
+        "cost the city"
+      ]
+    },
+    {
+      "spanish": [
+        "Nadie estaba sentado en la primera fila de la clase."
+      ],
+      "english": [
+        "No one was sitting in the front row of the class.",
+        "Nobody was sitting in the first row of the class."
+      ],
+      "bold": [
+        "was sitting",
+        "in the first row"
+      ]
+    },
+    {
+      "spanish": [
+        "Estoy muy emocionada por la nueva casa."
+      ],
+      "english": [
+        "I am really excited about the new house."
+      ],
+      "bold": [
+        "excited about"
+      ]
+    },
+    {
+      "spanish": [
+        "No soy bueno dibujando."
+      ],
+      "english": [
+        "I'm not good at drawing"
+      ],
+      "bold": [
+        "good at drawing"
+      ]
+    },
+    {
+      "spanish": [
+        "Puede planear dejar de trabajar."
+      ],
+      "english": [
+        "You can plan on stopping work."
+      ],
+      "bold": [
+        "plan on stopping"
+      ]
+    },
+    {
+      "spanish": [
+        "Reprobé el examen de biología."
+      ],
+      "english": [
+        "I failed the biology exam.",
+        "I failed the biology test."
+      ],
+      "bold": [
+        "failed"
+      ]
+    },
+    {
+      "spanish": [
+        "Estoy a cargo de la fiesta de la oficina este año."
+      ],
+      "english": [
+        "I am in charge of the office party this year."
+      ],
+      "bold": [
+        "in charge of"
+      ]
+    },
+    {
+      "spanish": [
+        "La casa está protegida por tres alarmas."
+      ],
+      "english": [
+        "The house is protected by three alarms."
+      ],
+      "bold": [
+        "protected by"
+      ]
+    },
+    {
+      "spanish": [
+        "Usualmente nos reunimos en el gimnasio."
+      ],
+      "english": [
+        "We usually meet up at the gym."
+      ],
+      "bold": [
+        "meet up"
+      ]
+    },
+    {
+      "spanish": [
+        "Usualmente nos reunimos en el gimnasio."
+      ],
+      "english": [
+        "We usually meet up at the gym."
+      ],
+      "bold": [
+        "meet up"
+      ]
+    },
+    {
+      "spanish": [
+        "Salí del trabajo a las cuatro."
+      ],
+      "english": [
+        "I got off work at four o'clock."
+      ],
+      "bold": [
+        "got off"
+      ]
+    },
+    {
+      "spanish": [
+        "Ellas pospusieron el crucero hasta el día siguiente."
+      ],
+      "english": [
+        "They put off the cruise until the next day.",
+        "They postponed the cruise until the next day."
+      ],
+      "bold": [
+        "put off",
+        "postponed"
+      ]
+    },
+    {
+      "spanish": [
+        "Odio no saber el precio."
+      ],
+      "english": [
+        "I hate not knowing the price."
+      ],
+      "bold": [
+        "hate",
+        "knowing"
+      ]
+    },
+    {
+      "spanish": [
+        "Él está comprando una bicicleta hoy."
+      ],
+      "english": [
+        "He is shopping for a bicycle today.",
+        "He is shopping for a bike today.",
+        "He is buying a bike today."
+      ],
+      "bold": [
+        "shopping for"
+      ]
+    },
+    {
+      "spanish": [
+        "Es lo que es."
+      ],
+      "english": [
+        "It is what it is."
+      ],
+      "bold": [
+        ""
+      ],
+      "definition": "Idiom: used to say that a situation cannot be changed and must be accepted."
+    },
+    {
+      "spanish": [
+        "¿Cómo es la nueva contadora?"
+      ],
+      "english": [
+        "What is the new accountant like?"
+      ],
+      "bold": [
+        "What",
+        "like"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Te daremos un aventón."
+      ],
+      "english": [
+        "We'll give you a ride."
+      ],
+      "bold": [
+        "give you a ride"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Cambié de opinión."
+      ],
+      "english": [
+        "I changed my mind."
+      ],
+      "bold": [
+        ""
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Estaba de vacaciones."
+      ],
+      "english": [
+        "I was on vacation."
+      ],
+      "bold": [
+        "on vacation"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Es la que más fans tiene."
+      ],
+      "english": [
+        "She has the most fans."
+      ],
+      "bold": [
+        "the most"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Amanece a eso de las 7 am."
+      ],
+      "english": [
+        "It gets light at about 7 am."
+      ],
+      "bold": [
+        "It gets light at"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Solo está lloviznando."
+      ],
+      "english": [
+        "It's just drizzling.",
+        "It's only drizzling."
+      ],
+      "bold": [
+        "drizzling"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Es bueno estar en casa."
+      ],
+      "english": [
+        "It's good to be home."
+      ],
+      "bold": [
+        "to be home"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Llegó tarde.",
+        "Apareció tarde."
+      ],
+      "english": [
+        "He turned up late."
+      ],
+      "bold": [
+        "turned up"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Se enorgullece de su trabajo."
+      ],
+      "english": [
+        "He takes pride in his work."
+      ],
+      "bold": [
+        "takes pride in"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Me enorgullezco de mi trabajo."
+      ],
+      "english": [
+        "I take pride in my work."
+      ],
+      "bold": [
+        "take pride in"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Llamaste antes de tiempo?",
+        "¿Llamaste con anticipación?"
+      ],
+      "english": [
+        "Did you call ahead of time?",
+        "Did you call in advance?"
+      ],
+      "bold": [
+        "ahead of time",
+        "in advance"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Perdón por llegar tarde."
+      ],
+      "english": [
+        "Sorry for being late."
+      ],
+      "bold": [
+        ""
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "El papel se hace con madera."
+      ],
+      "english": [
+        "Paper is made from wood."
+      ],
+      "bold": [
+        "is made from"
+      ],
+      "definition": ""
     }
   ]
 }
