@@ -3054,6 +3054,43 @@
         "flared up"
       ],
       "definition": "flare up: to become very angry."
+    },
+    {
+      "spanish": [
+        "He tenido tan poco tiempo desde que llegué aquí."
+      ],
+      "english": [
+        "I have been so time-poor since I arrived here."
+      ],
+      "bold": [
+        "time-poor"
+      ],
+      "definition": "time-poor: Spending most of one's time working or busy; lacking free time."
+    },
+    {
+      "spanish": [
+        "¿Alguna vez ha sentido que le faltaba tiempo?",
+        "¿Alguna vez te has sentido falto de tiempo?"
+      ],
+      "english": [
+        "Have you ever felt time-poor?"
+      ],
+      "bold": [
+        "time-poor"
+      ],
+      "definition": "time-poor: Spending most of one's time working or busy; lacking free time."
+    },
+    {
+      "spanish": [
+        "Tengo experiencia en ingeniería de software."
+      ],
+      "english": [
+        "I have a background in software engineering."
+      ],
+      "bold": [
+        "background in"
+      ],
+      "definition": ""
     }
   ]
 }
