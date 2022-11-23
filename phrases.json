@@ -3091,6 +3091,32 @@
         "background in"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "Estoy dispuesto a intentarlo."
+      ],
+      "english": [
+        "I am willing to give it a try."
+      ],
+      "bold": [
+        "willing",
+        "give it a try"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Estaba dispuesto a admitir que estaba equivocado."
+      ],
+      "english": [
+        "He was willing to admit he was wrong."
+      ],
+      "bold": [
+        "willing",
+        "he was wrong"
+      ],
+      "definition": ""
     }
   ]
 }
