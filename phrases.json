@@ -3117,6 +3117,56 @@
         "he was wrong"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "¡Ya le he ganado dos veces y quiere jugar otra vez!"
+      ],
+      "english": [
+        "I've already beaten him twice and he wants to play again."
+      ],
+      "bold": [
+        "beaten him"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "El club me interesó al principio, pero me aburrí."
+      ],
+      "english": [
+        "The club interested me at first, but I got bored."
+      ],
+      "bold": [
+        "at first",
+        " I got bored"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Te interesará saber que las fechas han cambiado."
+      ],
+      "english": [
+        "It will interest you to know that the dates have changed."
+      ],
+      "bold": [
+        "the dates have changed",
+        "interest you to know"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¡Te vas a congelar! ¡Ve a traer una chaqueta!"
+      ],
+      "english": [
+        "You're going to freeze! Go get a jacket."
+      ],
+      "bold": [
+        "Go get a jacket"
+      ],
+      "definition": ""
     }
   ]
 }
