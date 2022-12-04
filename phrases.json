@@ -3167,6 +3167,20 @@
         "Go get a jacket"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "Miró el vehículo sin comprender."
+      ],
+      "english": [
+        "He stared at the vehicle blankly."
+      ],
+      "bold": [
+        "stared at",
+        "blankly"
+      ],
+      "definition": "blankly: in a way that shows a lack of interest or engagement."
     }
   ]
 }
+
