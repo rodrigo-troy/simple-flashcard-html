@@ -1,5 +1,5 @@
 /*jshint esversion: 8 */
-
+/*jshint browser: true */
 /* global console*/
 (function () {
     console.log("Initializing...");
