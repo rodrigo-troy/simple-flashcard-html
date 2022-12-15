@@ -2805,7 +2805,8 @@
       "bold": [
         "put off",
         "postponed"
-      ]
+      ],
+      "definition": "The verb \"put off\" means to postpone or delay something."
     },
     {
       "spanish": [
@@ -3180,7 +3181,74 @@
         "blankly"
       ],
       "definition": "blankly: in a way that shows a lack of interest or engagement."
+    },
+    {
+      "spanish": [
+        "por favor, espere.",
+        "por favor, espera un momento."
+      ],
+      "english": [
+        "please hang tight."
+      ],
+      "bold": [
+        "hang tight"
+      ],
+      "definition": "This phrase is used to ask someone to wait or to hold on for a short time. It is a polite way of asking someone to be patient or to be prepared to wait for something to happen."
+    },
+    {
+      "spanish": [
+        "por favor, espere.",
+        "por favor, espera un momento."
+      ],
+      "english": [
+        "please hang tight."
+      ],
+      "bold": [
+        "hang tight"
+      ],
+      "definition": "This phrase is used to ask someone to wait or to hold on for a short time. It is a polite way of asking someone to be patient or to be prepared to wait for something to happen."
+    },
+    {
+      "spanish": [
+        "Mis esfuerzos por estudiar para el examen no fueron suficientes y terminé obteniendo una mala calificación."
+      ],
+      "english": [
+        "My efforts to study for the exam fell short, and I ended up getting a poor grade."
+      ],
+      "bold": [
+        "fell short",
+        "ended up",
+        "poor grade"
+      ],
+      "definition": "To \"fall short\" means to fail to meet a standard or expectation. "
+    },
+    {
+      "spanish": [
+        "El presupuesto del proyecto se quedó corto y tuvimos que recortar algunas características para mantenernos dentro de nuestros límites."
+      ],
+      "english": [
+        "The project's budget fell short, and we had to cut some features to stay within our limits."
+      ],
+      "bold": [
+        "fell short",
+        "to stay within our limits"
+      ],
+      "definition": "To \"fall short\" means to fail to meet a standard or expectation."
+    },
+    {
+      "spanish": [
+        "Ese tipo compró el último, así que no queda ninguno."
+      ],
+      "english": [
+        "That guy bought the last one so there aren't any left."
+      ],
+      "bold": [
+        "the last one",
+        "there aren't any left"
+      ],
+      "definition": ""
     }
   ]
 }
+
 
