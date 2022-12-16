@@ -3247,6 +3247,46 @@
         "there aren't any left"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "Es un tema aburrido, pero de alguna manera ella lo hace interesante."
+      ],
+      "english": [
+        "It's a boring topic, but somehow she makes it interesting."
+      ],
+      "bold": [
+        "boring",
+        "somehow",
+        "makes it"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Hay una mejor manera de escribir la oración?"
+      ],
+      "english": [
+        "Is there a better way to write the sentence?"
+      ],
+      "bold": [
+        "Is there",
+        "to write"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¡No esperaba que me ayudaras tanto!"
+      ],
+      "english": [
+        "I didn't expect you to help me so much!"
+      ],
+      "bold": [
+        "you",
+        "me"
+      ],
+      "definition": ""
     }
   ]
 }
