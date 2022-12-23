@@ -3397,6 +3397,32 @@
         "pestered"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Por qué es dañino?",
+        "¿Por qué es perjudicial?"
+      ],
+      "english": [
+        "Why is it harmful?"
+      ],
+      "bold": [
+        "Why is it"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Por qué es tan importante?",
+        "¿Por qué es tan crucial?"
+      ],
+      "english": [
+        "Why is it so important?"
+      ],
+      "bold": [
+        "Why is it"
+      ],
+      "definition": ""
     }
   ]
 }
