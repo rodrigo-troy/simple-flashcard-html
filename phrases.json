@@ -3423,6 +3423,32 @@
         "Why is it"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "Aún es joven y está en pañales, pero tiene mucho potencial.",
+        "Todavía es joven y tiene poca experiencia, pero tiene mucho potencial."
+      ],
+      "english": [
+        "He's still young and wet behind the ears, but he has a lot of potential."
+      ],
+      "bold": [
+        "Wet behind the ears"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Qué hace la máquina?"
+      ],
+      "english": [
+        "What does the machine do?"
+      ],
+      "bold": [
+        "does",
+        "do"
+      ],
+      "definition": ""
     }
   ]
 }
