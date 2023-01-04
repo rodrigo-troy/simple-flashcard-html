@@ -3449,6 +3449,32 @@
         "do"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Cómo era la vida en los ochenta?"
+      ],
+      "english": [
+        "What was life like in the eighties?"
+      ],
+      "bold": [
+        "What",
+        "like"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¿El olor de la barbacoa no te recuerda al verano?"
+      ],
+      "english": [
+        "Doesn't the smell of barbecue remind you of summer?"
+      ],
+      "bold": [
+        "remind you of",
+        "the smell of"
+      ],
+      "definition": ""
     }
   ]
 }
