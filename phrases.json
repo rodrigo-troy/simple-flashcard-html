@@ -3505,10 +3505,39 @@
         "¿Cuento tiempo lleva sucediento esto?"
       ],
       "english": [
-        "How long has this been going on?"
+        "How long has this been going on?",
+        "How long has this been happening?"
       ],
       "bold": [
-        "going on"
+        "going on",
+        "happening"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "A la gente se le paga bien en este país."
+      ],
+      "english": [
+        "People are paid well in this country.",
+        "People are well-paid in this country.",
+        "People get paid well in this country."
+      ],
+      "bold": [
+        "People are",
+        "get paid"
+      ],
+      "definition": "The phrase \"people are\" is used to describe a general truth or fact. It is often used to introduce a statement that is true for everyone or for a large group of people. It is also used to introduce a statement that is true for a large group of people in a particular situation or context."
+    },
+    {
+      "spanish": [
+        "Mis colegas y yo tenemos un partido de baloncesto mensual."
+      ],
+      "english": [
+        "My colleagues and I have a monthly basketball game."
+      ],
+      "bold": [
+        ""
       ],
       "definition": ""
     }
