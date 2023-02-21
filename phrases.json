@@ -3537,6 +3537,18 @@
         ""
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "Es tedioso por sí mismo."
+      ],
+      "english": [
+        "It is tedious by itself."
+      ],
+      "bold": [
+        "by itself"
+      ],
+      "definition": "This sentence means that the task or activity being described is boring or tiring when done alone, without any additional help or resources."
     }
   ]
 }
