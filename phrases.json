@@ -3549,6 +3549,69 @@
         "by itself"
       ],
       "definition": "This sentence means that the task or activity being described is boring or tiring when done alone, without any additional help or resources."
+    },
+    {
+      "spanish": [
+        "Me gusta dar paseos con mis perros."
+      ],
+      "english": [
+        "I like to take walks with my dogs."
+      ],
+      "bold": [
+        "take a walk"
+      ],
+      "definition": "To go for a leisurely stroll, typically outside or in nature."
+    },
+    {
+      "spanish": [
+        "Tengo que organizar una cena para 6 personas que son vegetarianas. ¿Puedes sugerir un menú de 3 platos con un postre de chocolate?"
+      ],
+      "english": [
+        "I need to throw a dinner party for 6 people who are vegetarian. Can you suggest a 3-course menu with a chocolate dessert?"
+      ],
+      "bold": [
+        "throw a dinner party",
+        "vegetarian",
+        "3-course menu",
+        "dessert"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Cuando se trata de cocinar, ella es la mejor."
+      ],
+      "english": [
+        "When it comes to cooking, she is the best."
+      ],
+      "bold": [
+        "When it comes to"
+      ],
+      "definition": "The phrase 'when it comes to...' is used to specify a particular thing or area being talked about. It's a way of focusing the topic or subject."
+    },
+    {
+      "spanish": [
+        "Cuando se trata de tecnología, siempre estoy al día."
+      ],
+      "english": [
+        "When it comes to technology, I'm always up-to-date."
+      ],
+      "bold": [
+        "When it comes to"
+      ],
+      "definition": "The phrase 'when it comes to...' is used to specify a particular thing or area being talked about. It's a way of focusing the topic or subject."
+    },
+    {
+      "spanish": [
+        "Cuando se trata de deportes, prefiero el fútbol."
+      ],
+      "english": [
+        "When it comes to sports, I prefer football."
+      ],
+      "bold": [
+        "When it comes to"
+      ],
+      "definition": "The phrase 'when it comes to...' is used to specify a particular thing or area being talked about. It's a way of focusing the topic or subject."
     }
   ]
 }
