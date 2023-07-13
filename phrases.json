@@ -3708,6 +3708,90 @@
         ""
       ],
       "definition": "This phrase describes a person who passed away while being recognized as a hero for their actions during a war."
+    },
+    {
+      "spanish": [
+        "Estamos trabajando a toda máquina para finalizar el proyecto antes de la fecha límite."
+      ],
+      "english": [
+        "We're burning the midnight oil to finish the project before the deadline."
+      ],
+      "bold": [
+        "Burning the midnight oil"
+      ],
+      "definition": "Working late into the night or working extra hard to complete something."
+    },
+    {
+      "spanish": [
+        "Realmente debemos ponernos las pilas y optimizar este código."
+      ],
+      "english": [
+        "We really need to pull up our socks and optimize this code."
+      ],
+      "bold": [
+        "Pull up our socks"
+      ],
+      "definition": "To improve the way one is performing an activity or task."
+    },
+    {
+      "spanish": [
+        "El equipo superó un obstáculo importante cuando logró integrar la nueva API."
+      ],
+      "english": [
+        "The team got over a major hurdle when they managed to integrate the new API."
+      ],
+      "bold": [
+        "Got over a major hurdle"
+      ],
+      "definition": "Overcame a difficulty or problem."
+    },
+    {
+      "spanish": [
+        "Necesitamos arrancar con el nuevo proyecto de inmediato."
+      ],
+      "english": [
+        "We need to kick off the new project immediately."
+      ],
+      "bold": [
+        "Kick off"
+      ],
+      "definition": "To start or initiate (something)."
+    },
+    {
+      "spanish": [
+        "El equipo ha estado trabajando duro para resolver los errores."
+      ],
+      "english": [
+        "The team has been working hard to iron out the bugs."
+      ],
+      "bold": [
+        "Iron out"
+      ],
+      "definition": "To remove problems or find solutions."
+    },
+    {
+      "spanish": [
+        "Debido a problemas de compatibilidad, tuvimos que descartar la antigua API."
+      ],
+      "english": [
+        "Due to compatibility issues, we had to phase out the old API."
+      ],
+      "bold": [
+        "Phase out"
+      ],
+      "definition": "To gradually stop using something."
+    },
+    {
+      "spanish": [
+        "Decidimos dividir el proyecto en tareas más pequeñas."
+      ],
+      "english": [
+        "We decided to break down the project into smaller tasks."
+      ],
+      "bold": [
+        "Break down"
+      ],
+      "definition": "To separate something into smaller parts."
     }
   ]
 }
