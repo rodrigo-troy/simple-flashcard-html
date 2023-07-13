@@ -1,11 +1,11 @@
 body {
-    background: ghostwhite center no-repeat no-repeat;
+    background: ghostwhite center no-repeat;
 }
 
 .grid {
     display: grid;
     grid-gap: 20px;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: 1fr;
     padding: 30px;
 }
 
@@ -49,20 +49,19 @@ body {
     transform: rotateY(180deg);
 }
 
-.flip-card-front p {
-    display: block;
+.flip-card-front p, .flip-card-back p {
     margin: auto;
-    font-size: 25px;
     color: white;
     padding: 15px;
 }
 
+.flip-card-front p {
+    font-size: 25px;
+}
+
 .flip-card-back p {
     flex-basis: 100%;
-    margin: auto;
     font-size: 20px;
-    color: white;
-    padding: 15px;
 }
 
 .flip-card-back > p > b {
