@@ -40,19 +40,17 @@
             });
         }
 
-        const infoIcon = document.createElement('span');
-        infoIcon.className = 'info-icon';
-        infoIcon.textContent = 'ℹ️';
-        divBack.appendChild(infoIcon);
+        if (phrase.hasOwnProperty('definition') && phrase['definition'] !== '') {
+            const infoIcon = document.createElement('span');
+            infoIcon.className = 'info-icon';
+            infoIcon.textContent = 'ℹ️';
+            divBack.appendChild(infoIcon);
 
-        infoIcon.addEventListener('click', function (e) {
-            e.stopPropagation();
-            if (phrase.hasOwnProperty('definition') && phrase['definition'] !== '') {
+            infoIcon.addEventListener('click', function (e) {
+                e.stopPropagation();
                 alert(phrase['definition']);
-            } else {
-                alert('No definition available.');
-            }
-        });
+            });
+        }
 
         return divBack;
     }
@@ -80,7 +78,24 @@
         div.appendChild(divChild);
 
         divChild.appendChild(getDivFront(phrase));
-        divChild.appendChild(getDivBack(phrase));
+        const divBack = getDivBack(phrase);
+        divChild.appendChild(divBack);
+
+        div.addEventListener('click', function (event) {
+            // Prevent flipping the card when the info icon or popup is clicked
+            if (!event.target.closest('.info-icon') && !event.target.closest('.info-popup')) {
+                this.classList.add('flipped');
+            }
+        });
+
+        divBack.addEventListener('click', function (event) {
+            event.stopPropagation();
+            // If the info icon or popup isn't clicked, flip the card back
+            if (!event.target.closest('.info-icon') && !event.target.closest('.info-popup')) {
+                div.classList.remove('flipped');
+            }
+        });
+
 
         document.getElementById('root').appendChild(div);
     });
