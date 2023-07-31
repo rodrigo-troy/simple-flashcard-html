@@ -1,103 +1,109 @@
 /*jshint esversion: 8 */
 /*jshint browser: true */
-/* global console*/
-(async () => {
-    console.log("Initializing...");
 
-    const response = await fetch('phrases.json');
-    const json = await response.json();
+/* global console */
 
-    function getDivFront(phrase) {
-        const divFront = document.createElement('div');
-        divFront.className = 'flip-card-front';
-        const divFrontP = document.createElement('p');
+class Phrase {
+    constructor(json) {
+        this.english = json.english || [];
+        this.spanish = json.spanish || [];
+        this.bold = json.bold || [];
+        this.definition = json.definition || '';
+    }
 
-        if (phrase.hasOwnProperty('spanish') && Array.isArray(phrase['spanish'])) {
-            divFrontP.textContent = phrase['spanish'][Math.floor(Math.random() * phrase['spanish'].length)];
-        }
+    randomSpanishPhrase() {
+        return this.spanish[Math.floor(Math.random() * this.spanish.length)];
+    }
 
-        divFront.appendChild(divFrontP);
+    boldEnglishPhrases() {
+        return this.english.map(englishPhrase => this.bold.reduce((phrase, bold) => phrase.includes(bold) ? phrase.replace(bold, `<b>${bold}</b>`) : phrase, englishPhrase));
+    }
+}
+
+class Card {
+    constructor(phrase) {
+        this.phrase = phrase;
+    }
+
+    createCardFront() {
+        let divFront = this.createElement('div', 'flip-card-front');
+        let p = this.createElement('p', '', this.phrase.randomSpanishPhrase());
+        divFront.appendChild(p);
         return divFront;
     }
 
-    function getDivBack(phrase) {
-        const divBack = document.createElement('div');
-        divBack.className = 'flip-card-back';
+    createCardBack() {
+        let divBack = this.createElement('div', 'flip-card-back');
+        this.phrase.boldEnglishPhrases().forEach(text => {
+            divBack.appendChild(this.createElement('p', '', '', text));
+        });
 
-        if (phrase.hasOwnProperty('english') && Array.isArray(phrase['english'])) {
-            phrase['english'].map(englishPhrase => {
-                const divBackP = document.createElement('p');
-                if (phrase.hasOwnProperty('bold') && Array.isArray(phrase['bold'])) {
-                    phrase['bold'].map(bold => {
-                        if (englishPhrase.includes(bold)) {
-                            englishPhrase = englishPhrase.replace(bold, `<b>${bold}</b>`);
-                        }
-                    });
-                }
-
-                divBackP.innerHTML = englishPhrase;
-                divBack.appendChild(divBackP);
-            });
-        }
-
-        if (phrase.hasOwnProperty('definition') && phrase['definition'] !== '') {
-            const infoIcon = document.createElement('span');
-            infoIcon.className = 'info-icon';
-            infoIcon.textContent = 'ℹ️';
-            divBack.appendChild(infoIcon);
-
-            infoIcon.addEventListener('click', function (e) {
+        if (this.phrase.definition) {
+            let span = this.createElement('span', 'info-icon', 'ℹ️');
+            span.addEventListener('click', (e) => {
                 e.stopPropagation();
-                alert(phrase['definition']);
-            });
+                alert(this.phrase.definition);
+            })
+            divBack.appendChild(span);
         }
-
         return divBack;
     }
 
-    function shuffleArray(array) {
-        let m = array.length, t, i;
-        while (m) {
-            i = Math.floor(Math.random() * m--);
-            t = array[m];
-            array[m] = array[i];
-            array[i] = t;
+    createElement(elementType, className, textContent = '', innerHTML = '') {
+        let element = document.createElement(elementType);
+        element.className = className;
+        element.textContent = textContent;
+        if (innerHTML) {
+            element.innerHTML = innerHTML;
         }
-        return array;
+        return element;
     }
 
-    json['phrases'] = shuffleArray(json['phrases']);
-
-    json['phrases'].forEach(phrase => {
-        const div = document.createElement('div');
-        div.className = "flip-card";
-
-        const divChild = document.createElement('div');
-        divChild.className = 'flip-card-inner';
-
+    createCard() {
+        let div = this.createElement('div', 'flip-card');
+        let divChild = this.createElement('div', 'flip-card-inner');
         div.appendChild(divChild);
 
-        divChild.appendChild(getDivFront(phrase));
-        const divBack = getDivBack(phrase);
-        divChild.appendChild(divBack);
+        divChild.appendChild(this.createCardFront());
+        divChild.appendChild(this.createCardBack());
 
-        div.addEventListener('click', function (event) {
-            // Prevent flipping the card when the info icon or popup is clicked
-            if (!event.target.closest('.info-icon') && !event.target.closest('.info-popup')) {
-                this.classList.add('flipped');
-            }
-        });
+        div.addEventListener('click', this.flipCard);
+        return div;
+    }
 
-        divBack.addEventListener('click', function (event) {
-            event.stopPropagation();
-            // If the info icon or popup isn't clicked, flip the card back
-            if (!event.target.closest('.info-icon') && !event.target.closest('.info-popup')) {
-                div.classList.remove('flipped');
-            }
-        });
+    flipCard(e) {
+        if (!e.target.closest('.info-icon') && !e.target.closest('.info-icon')) {
+            this.classList.toggle('flipped');
+        }
+    }
+}
 
+class App {
+    constructor() {
+        console.log("Initializing...");
+        this.rootElement = document.getElementById('root');
+    }
 
-        document.getElementById('root').appendChild(div);
-    });
-    console.log("Initialized...");
-})();
+    async init() {
+        try {
+            let response = await fetch('phrases.json');
+            let json = await response.json();
+            this.createCards(json['phrases']);
+            console.log("Initialized...");
+        } catch (err) {
+            console.error(err);
+        }
+    }
+
+    createCards(phraseData) {
+        phraseData
+            .map(item => new Phrase(item))
+            .sort(() => 0.5 - Math.random())
+            .map(phrase => new Card(phrase))
+            .forEach(card => this.rootElement.appendChild(card.createCard()));
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    (new App()).init();
+});
