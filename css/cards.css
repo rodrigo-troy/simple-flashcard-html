@@ -82,3 +82,22 @@ body {
     right: 10px;
     font-size: 20px;
 }
+
+
+/* Add @media at the bottom of your CSS file */
+@media screen and (max-width: 600px) {
+    .flip-card {
+        width: 100%;
+        height: 0; /* Reset the height */
+        padding-bottom: 100%; /* Set the padding-bottom to maintain aspect ratio */
+        position: relative; /* Make .flip-card a containing block for .flip-card-inner */
+    }
+
+    .flip-card-inner {
+        position: absolute; /* Make .flip-card-inner absolute positioned */
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%; /* Let it fill the .flip-card element */
+    }
+}
