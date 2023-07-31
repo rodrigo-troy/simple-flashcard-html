@@ -40,6 +40,20 @@
             });
         }
 
+        const infoIcon = document.createElement('span');
+        infoIcon.className = 'info-icon';
+        infoIcon.textContent = 'ℹ️';
+        divBack.appendChild(infoIcon);
+
+        infoIcon.addEventListener('click', function (e) {
+            e.stopPropagation();
+            if (phrase.hasOwnProperty('definition') && phrase['definition'] !== '') {
+                alert(phrase['definition']);
+            } else {
+                alert('No definition available.');
+            }
+        });
+
         return divBack;
     }
 

@@ -10,7 +10,8 @@
       ],
       "bold": [
         "will be"
-      ]
+      ],
+      "definition": "A future tense verb phrase used to describe an action that is going to happen."
     },
     {
       "spanish": [
@@ -308,7 +309,8 @@
       "bold": [
         "pick her up",
         "pick up"
-      ]
+      ],
+      "definition": "To go to a place and bring someone (often by car)."
     },
     {
       "spanish": [
@@ -319,7 +321,8 @@
       ],
       "bold": [
         "hand out"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -330,7 +333,8 @@
       ],
       "bold": [
         "pick up"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -342,7 +346,8 @@
       "bold": [
         "who",
         "Ask"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -354,7 +359,8 @@
       "bold": [
         "gets stolen",
         "right away"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -366,7 +372,8 @@
       "bold": [
         "is one hundred meters",
         "which is"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -378,7 +385,8 @@
       "bold": [
         "is one hundred meters",
         "which is"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -389,7 +397,8 @@
       ],
       "bold": [
         "How often"
-      ]
+      ],
+      "definition": ""
     },
     {
       "spanish": [
@@ -401,7 +410,8 @@
       "bold": [
         "go online",
         "need to"
-      ]
+      ],
+      "definition": "'Go online' means to connect to the internet or use services over the internet."
     },
     {
       "spanish": [
@@ -1235,8 +1245,7 @@
         "They are in court today."
       ],
       "bold": [
-        "in court",
-        "are"
+        "in court"
       ]
     },
     {
@@ -1286,7 +1295,8 @@
       "bold": [
         "On second thought",
         "after all"
-      ]
+      ],
+      "definition": "On second thought: Changing one's mind after considering something again."
     },
     {
       "spanish": [
@@ -1519,18 +1529,6 @@
       ],
       "bold": [
         "Click twice"
-      ]
-    },
-    {
-      "spanish": [
-        "Nosotros vamos a llegar tarde."
-      ],
-      "english": [
-        "We are going to be late"
-      ],
-      "bold": [
-        "going to",
-        "be late"
       ]
     },
     {
@@ -1817,17 +1815,6 @@
       ],
       "english": [
         "He accepted your invitation to your party."
-      ],
-      "bold": [
-        "invitation to"
-      ]
-    },
-    {
-      "spanish": [
-        "El aceptó tu invitación al evento."
-      ],
-      "english": [
-        "He accepted your invitation to the event."
       ],
       "bold": [
         "invitation to"
@@ -3792,6 +3779,18 @@
         "Break down"
       ],
       "definition": "To separate something into smaller parts."
+    },
+    {
+      "spanish": [
+        "Quiero que vengan todos mis amigos."
+      ],
+      "english": [
+        "I want all my friends to come."
+      ],
+      "bold": [
+        "to come"
+      ],
+      "definition": ""
     }
   ]
 }
