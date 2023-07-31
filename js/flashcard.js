@@ -72,8 +72,8 @@ class Card {
     }
 
     flipCard(e) {
-        if (!e.target.closest('.info-icon') && !e.target.closest('.info-icon')) {
-            this.classList.toggle('flipped');
+        if (!e.target.closest('.info-icon')) {
+            e.currentTarget.classList.toggle('flipped');
         }
     }
 }
