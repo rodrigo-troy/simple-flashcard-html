@@ -3803,6 +3803,42 @@
         "Taking a toll"
       ],
       "definition": "Having a negative impact or effect."
+    },
+    {
+      "spanish": [
+        "El curso abarca temas desde la programación básica hasta la inteligencia artificial."
+      ],
+      "english": [
+        "The course encompasses topics from basic programming to artificial intelligence."
+      ],
+      "bold": [
+        "Encompasses"
+      ],
+      "definition": "To include a wide range of ideas, subjects, etc."
+    },
+    {
+      "spanish": [
+        "La función del gerente abarca la supervisión de empleados y la gestión de proyectos."
+      ],
+      "english": [
+        "The manager's role encompasses supervising employees and managing projects."
+      ],
+      "bold": [
+        "Encompasses"
+      ],
+      "definition": "To include or contain something as a part."
+    },
+    {
+      "spanish": [
+        "El análisis abarca todos los aspectos del producto, desde su diseño hasta su fabricación."
+      ],
+      "english": [
+        "The analysis encompasses all aspects of the product, from its design to its manufacture."
+      ],
+      "bold": [
+        "Encompasses"
+      ],
+      "definition": "To include all or nearly all parts or aspects of something."
     }
   ]
 }
