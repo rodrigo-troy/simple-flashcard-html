@@ -19,7 +19,7 @@ class Phrase {
         return this.english.map(englishPhrase => {
             return this.bold.reduce((phrase, bold) => {
                 const regex = new RegExp(bold, 'ig');
-                return phrase.replace(regex, `<b>${bold}</b>`);
+                return phrase.replace(regex, `<b>${bold.toLowerCase()}</b>`);
             }, englishPhrase);
         });
     }
