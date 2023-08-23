@@ -16,7 +16,12 @@ class Phrase {
     }
 
     boldEnglishPhrases() {
-        return this.english.map(englishPhrase => this.bold.reduce((phrase, bold) => phrase.includes(bold) ? phrase.replace(bold, `<b>${bold}</b>`) : phrase, englishPhrase));
+        return this.english.map(englishPhrase => {
+            return this.bold.reduce((phrase, bold) => {
+                const regex = new RegExp(bold, 'ig');
+                return phrase.replace(regex, `<b>${bold}</b>`);
+            }, englishPhrase);
+        });
     }
 }
 
