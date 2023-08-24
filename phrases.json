@@ -3863,6 +3863,42 @@
         "Lodged"
       ],
       "definition": "Became stuck or embedded in something."
+    },
+    {
+      "spanish": [
+        "Estamos emocionados por el próximo lanzamiento del producto."
+      ],
+      "english": [
+        "We are excited about the upcoming product launch."
+      ],
+      "bold": [
+        "Upcoming"
+      ],
+      "definition": "Happening or appearing soon; forthcoming."
+    },
+    {
+      "spanish": [
+        "El director habló sobre los próximos cambios en la compañía."
+      ],
+      "english": [
+        "The director spoke about the upcoming changes in the company."
+      ],
+      "bold": [
+        "Upcoming"
+      ],
+      "definition": "Approaching or happening soon."
+    },
+    {
+      "spanish": [
+        "La conferencia próximamente se llevará a cabo en Nueva York."
+      ],
+      "english": [
+        "The upcoming conference will be held in New York."
+      ],
+      "bold": [
+        "Upcoming"
+      ],
+      "definition": "Scheduled to happen or appear in the near future."
     }
   ]
 }
