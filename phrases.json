@@ -3899,6 +3899,42 @@
         "Upcoming"
       ],
       "definition": "Scheduled to happen or appear in the near future."
+    },
+    {
+      "spanish": [
+        "Ambas consultas son tan simples como pueden ser."
+      ],
+      "english": [
+        "Both of these queries are as simple as they come."
+      ],
+      "bold": [
+        "As simple as they come"
+      ],
+      "definition": "Very simple or straightforward."
+    },
+    {
+      "spanish": [
+        "Las instrucciones son tan simples como pueden ser, por lo que debería ser fácil de montar."
+      ],
+      "english": [
+        "The instructions are as simple as they come, so it should be easy to assemble."
+      ],
+      "bold": [
+        "As simple as they come"
+      ],
+      "definition": "Very simple or straightforward."
+    },
+    {
+      "spanish": [
+        "¿Cómo es este libro?"
+      ],
+      "english": [
+        "What is this book like?"
+      ],
+      "bold": [
+        ""
+      ],
+      "definition": ""
     }
   ]
 }
