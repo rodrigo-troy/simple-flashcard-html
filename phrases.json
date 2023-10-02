@@ -1545,6 +1545,16 @@
     },
     {
       "spanish": [
+        "Estoy atrasado"
+      ],
+      "english": [
+        "I'm late"
+      ],
+      "bold": [
+      ]
+    },
+    {
+      "spanish": [
         "Cuál es tu aplicación favorita?"
       ],
       "english": [
@@ -4030,6 +4040,31 @@
       ],
       "bold": [
         ""
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "¿Esos autobuses van al aeropuerto?"
+      ],
+      "english": [
+        "Do those buses go to the airport?"
+      ],
+      "bold": [
+        "do"
+      ],
+      "definition": ""
+    },
+    {
+      "spanish": [
+        "Él usualmente toma una taza de té con el desayuno."
+      ],
+      "english": [
+        "He usually has a cup of tea with breakfast."
+      ],
+      "bold": [
+        "has",
+        "a cup of tea"
       ],
       "definition": ""
     }
