@@ -4067,6 +4067,30 @@
         "a cup of tea"
       ],
       "definition": ""
+    },
+    {
+      "spanish": [
+        "Hay un barco en el río."
+      ],
+      "english": [
+        "There is a boat on the river."
+      ],
+      "bold": [
+        "on"
+      ],
+      "definition": "The word 'on' is used to indicate that the boat is situated above the surface of the river, but is in contact with it. In this context, 'on' is used to describe the boat's position relative to the river."
+    },
+    {
+      "spanish": [
+        "¡No puedo llegar tarde!"
+      ],
+      "english": [
+        "I can't be late!"
+      ],
+      "bold": [
+        "be late"
+      ],
+      "definition": "The phrase 'be late' refers to the state of not arriving, appearing, or completing something within the expected or scheduled time. In this context, 'I can't be late!' indicates an urgency to avoid this state, possibly due to important commitments."
     }
   ]
 }
