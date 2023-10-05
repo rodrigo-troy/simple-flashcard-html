@@ -3716,7 +3716,7 @@
       "bold": [
         "Burning the midnight oil"
       ],
-      "definition": "Working late into the night or working extra hard to complete something."
+      "definition": "Burning the midnight oil: Working late into the night or working extra hard to complete something."
     },
     {
       "spanish": [
@@ -3728,7 +3728,7 @@
       "bold": [
         "Pull up our socks"
       ],
-      "definition": "To improve the way one is performing an activity or task."
+      "definition": "Pull up our socks: To improve the way one is performing an activity or task."
     },
     {
       "spanish": [
@@ -3752,7 +3752,7 @@
       "bold": [
         "Kick off"
       ],
-      "definition": "To start or initiate (something)."
+      "definition": "Kick off: To start or initiate (something)."
     },
     {
       "spanish": [
@@ -3764,7 +3764,7 @@
       "bold": [
         "Iron out"
       ],
-      "definition": "To remove problems or find solutions."
+      "definition": "Iron out: To remove problems or find solutions."
     },
     {
       "spanish": [
@@ -3776,7 +3776,7 @@
       "bold": [
         "Phase out"
       ],
-      "definition": "To gradually stop using something."
+      "definition": "Phase out: To gradually stop using something."
     },
     {
       "spanish": [
@@ -3788,7 +3788,7 @@
       "bold": [
         "Break down"
       ],
-      "definition": "To separate something into smaller parts."
+      "definition": "Break down: To separate something into smaller parts."
     },
     {
       "spanish": [
@@ -3812,7 +3812,7 @@
       "bold": [
         "Taking a toll"
       ],
-      "definition": "Having a negative impact or effect."
+      "definition": "Taking a toll: Having a negative impact or effect."
     },
     {
       "spanish": [
@@ -3824,7 +3824,7 @@
       "bold": [
         "Encompasses"
       ],
-      "definition": "To include a wide range of ideas, subjects, etc."
+      "definition": "Encompasses: To include a wide range of ideas, subjects, etc."
     },
     {
       "spanish": [
@@ -3836,7 +3836,7 @@
       "bold": [
         "Encompasses"
       ],
-      "definition": "To include or contain something as a part."
+      "definition": "Encompasses: To include or contain something as a part."
     },
     {
       "spanish": [
@@ -3848,7 +3848,7 @@
       "bold": [
         "Encompasses"
       ],
-      "definition": "To include all or nearly all parts or aspects of something."
+      "definition": "Encompasses: To include all or nearly all parts or aspects of something."
     },
     {
       "spanish": [
@@ -3942,9 +3942,23 @@
         "What is this book like?"
       ],
       "bold": [
-        ""
+        "what is",
+        "like"
       ],
-      "definition": ""
+      "definition": "The sentence structure \"What is [something] like?\" is used to inquire about the characteristics, qualities, or condition of something or someone. When you use \"like\" in this form, you're asking for a description, often in terms of sensory qualities, features, or general attributes."
+    },
+    {
+      "spanish": [
+        "¿Cómo es ella?"
+      ],
+      "english": [
+        "What is she like?"
+      ],
+      "bold": [
+        "what is",
+        "like"
+      ],
+      "definition": "The sentence structure \"What is [something] like?\" is used to inquire about the characteristics, qualities, or condition of something or someone. When you use \"like\" in this form, you're asking for a description, often in terms of sensory qualities, features, or general attributes."
     },
     {
       "spanish": [
@@ -3954,9 +3968,9 @@
         "How is this said in English?"
       ],
       "bold": [
-        ""
+        "in"
       ],
-      "definition": ""
+      "definition": "The preposition \"in\" is used to specify the language context IN which something is expressed. When referring to languages, \"in\" is the most common preposition used to indicate the medium of communication."
     },
     {
       "spanish": [
@@ -3967,7 +3981,8 @@
         "Have a good night, Anna!"
       ],
       "bold": [
-        ""
+        "nice night",
+        "good night"
       ],
       "definition": ""
     },
@@ -3979,9 +3994,9 @@
         "Is the food good on the plane?"
       ],
       "bold": [
-        ""
+        "on"
       ],
-      "definition": ""
+      "definition": "When talking about transportation like planes, buses, or trains, English speakers often use \"on\" to indicate that something is taking place within that mode of transport."
     },
     {
       "spanish": [
@@ -3993,7 +4008,7 @@
       "bold": [
         "Dwelling on"
       ],
-      "definition": "to keep thinking or talking about something, especially something bad or unpleasant."
+      "definition": "Dwelling on: to keep thinking or talking about something, especially something bad or unpleasant."
     },
     {
       "spanish": [
@@ -4017,7 +4032,7 @@
       "bold": [
         "Dwelling on"
       ],
-      "definition": "To keep thinking or talking about something, especially something bad or unfortunate."
+      "definition": "Dwelling on: To keep thinking or talking about something, especially something bad or unfortunate."
     },
     {
       "spanish": [
@@ -4175,6 +4190,90 @@
         "nice of you to invite us"
       ],
       "definition": "The expression \"nice of you\" is a common phrase used to express appreciation or gratitude for a kind or thoughtful action performed by someone else. It's often used to acknowledge that the other person has gone out of their way to be helpful, considerate, or accommodating."
+    },
+    {
+      "spanish": [
+        "La realidad tarde o temprano te alcanza."
+      ],
+      "english": [
+        "Sooner or later reality catches up with you."
+      ],
+      "bold": [
+        "catches up with"
+      ],
+      "definition": "In this sentence, 'catches up with' refers to the inevitable occurrence of something having an effect or consequence, here implying that one cannot escape reality forever."
+    },
+    {
+      "spanish": [
+        "La edad nos alcanza a todos."
+      ],
+      "english": [
+        "Age catches up with all of us."
+      ],
+      "bold": [
+        "catches up with"
+      ],
+      "definition": "In this context, 'catches up with' refers to the inevitable process of aging affecting everyone, regardless of who they are. It implies that no one can escape the effects of aging."
+    },
+    {
+      "spanish": [
+        "Ella mencionó el problema durante la reunión."
+      ],
+      "english": [
+        "She brought up the issue during the meeting."
+      ],
+      "bold": [
+        "brought up"
+      ],
+      "definition": "brought up: To mention a topic. \"Issue\" can be used to refer to a problem or a topic of discussion."
+    },
+    {
+      "spanish": [
+        "Cancelaron la boda en el último minuto."
+      ],
+      "english": [
+        "They called off the wedding at the last minute."
+      ],
+      "bold": [
+        "called off"
+      ],
+      "definition": "called off: To cancel something that has been planned or scheduled."
+    },
+    {
+      "spanish": [
+        "¿Cómo es vivir en Nueva York?"
+      ],
+      "english": [
+        "What is it like to live in New York?"
+      ],
+      "bold": [
+        "What is it like"
+      ],
+      "definition": "This expression is used to inquire about the experience or feeling of a particular situation or condition."
+    },
+    {
+      "spanish": [
+        "¿Cómo es ser un atleta profesional?"
+      ],
+      "english": [
+        "What is it like to be a professional athlete?"
+      ],
+      "bold": [
+        "What is it like"
+      ],
+      "definition": "This expression is used to inquire about the experience or feeling of a particular role or profession."
+    },
+    {
+      "spanish": [
+        "¿Cómo es trabajar en tu empresa?"
+      ],
+      "english": [
+        "What is it like to work at your company?"
+      ],
+      "bold": [
+        "What is it like"
+      ],
+      "definition": "This expression is used to inquire about the experience or environment of working at a specific place."
     }
   ]
 }
