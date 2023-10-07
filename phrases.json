@@ -4274,6 +4274,31 @@
         "What is it like"
       ],
       "definition": "This expression is used to inquire about the experience or environment of working at a specific place."
+    },
+    {
+      "spanish": [
+        "Nuestro entrenador estaba gritando más fuerte que los aficionados."
+      ],
+      "english": [
+        "Our coach was shouting louder than the fans were."
+      ],
+      "bold": [
+        "than"
+      ],
+      "definition": "The word 'than' is used to make a comparison between the volume or intensity of the coach's shouting and that of the fans."
+    },
+    {
+      "spanish": [
+        "Prefiero los disfraces graciosos a los disfraces aterradores."
+      ],
+      "english": [
+        "I prefer funny costumes to scary costumes."
+      ],
+      "bold": [
+        "prefer",
+        "to"
+      ],
+      "definition": "In this sentence, the phrase 'prefer ... to' is used to indicate a preference for one thing over another. The preposition 'to' is essential in making the comparison clear, signaling that 'funny costumes' are favored over 'scary costumes'."
     }
   ]
 }
