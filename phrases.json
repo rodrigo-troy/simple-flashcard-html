@@ -4369,6 +4369,42 @@
         "As I was saying"
       ],
       "definition": "As I was saying: A phrase used to resume a conversation after being interrupted."
+    },
+    {
+      "Spanish": [
+        "Él describió un escenario en el que perdería su trabajo."
+      ],
+      "English": [
+        "He described a scenario wherein he would lose his job."
+      ],
+      "bold": [
+        "wherein"
+      ],
+      "definition": "The term 'wherein' is used to specify a condition or situation. In this example, it introduces the condition under which the individual could lose his job."
+    },
+    {
+      "Spanish": [
+        "Es un proceso en el que el agua se convierte en vapor."
+      ],
+      "English": [
+        "It's a process wherein water is converted into steam."
+      ],
+      "bold": [
+        "wherein"
+      ],
+      "definition": "The adverb 'wherein' is used to introduce a particular situation or condition. In this scientific context, it describes the specific transformation of water into steam."
+    },
+    {
+      "Spanish": [
+        "El contrato contiene una cláusula en la que las partes acuerdan arbitraje."
+      ],
+      "English": [
+        "The contract contains a clause wherein the parties agree to arbitration."
+      ],
+      "bold": [
+        "wherein"
+      ],
+      "definition": "The term 'wherein' serves as a connecting word to specify the context or condition under which something occurs. In this example, it indicates the specific part of the contract that stipulates agreement to arbitration."
     }
   ]
 }
