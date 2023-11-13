@@ -110,5 +110,7 @@ class App {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    (new App()).init();
+    (new App()).init().then(() => {
+        console.log("App started...");
+    });
 });
