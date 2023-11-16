@@ -4537,6 +4537,31 @@
         "Hang on"
       ],
       "definition": "This phrase is used to request someone to pause and provide a repetition or clarification of information."
+    },
+    {
+      "Spanish": [
+        "Me ahorraste horas de ensayo y error."
+      ],
+      "English": [
+        "You saved me hours of trial and error."
+      ],
+      "bold": [
+        "saved me hours",
+        "trial and error"
+      ],
+      "definition": "The phrase 'saved me hours' implies that due to someone's help or intervention, a significant amount of time was conserved. 'Trial and error' is a method of solving problems through repeated, varied attempts which continue until success, or until the practicer stops trying."
+    },
+    {
+      "Spanish": [
+        "Me habría llevado horas encontrar la solución."
+      ],
+      "English": [
+        "It would have taken me hours to find the solution."
+      ],
+      "bold": [
+        "would have taken"
+      ],
+      "definition": "The phrase 'would have taken' is used to express a hypothetical situation in the past. It indicates that if a certain action had been pursued, it would have required a significant amount of time, in this case, hours, to complete."
     }
   ]
 }
