@@ -4562,6 +4562,93 @@
         "would have taken"
       ],
       "definition": "The phrase 'would have taken' is used to express a hypothetical situation in the past. It indicates that if a certain action had been pursued, it would have required a significant amount of time, in this case, hours, to complete."
+    },
+    {
+      "Spanish": [
+        "En dos horas, llegaremos a nuestro destino."
+      ],
+      "English": [
+        "In two hours, we will arrive at our destination."
+      ],
+      "bold": [
+        "arrive at"
+      ],
+      "definition": "The phrase 'arrive at' is used to indicate reaching a destination. 'At' is the correct preposition to use with 'arrive' when referring to a specific place. While 'to' is used for direction, 'at' is used for destinations, indicating a point of arrival rather than the act of moving towards something. In English, the preposition \"to\" is generally used to indicate movement towards a place or a direction. However, when it comes to the verb \"arrive,\" the convention is to use \"at\" for specific places (like cities, buildings, or destinations) and \"in\" for larger areas (like countries or large cities)."
+    },
+    {
+      "Spanish": [
+        "Aún no hay electricidad en la casa nueva.",
+        "Todavía no hay electricidad en la casa nueva."
+      ],
+      "English": [
+        "There's no power yet at the new house."
+      ],
+      "bold": [
+        "at"
+      ],
+      "definition": "'At' is used here as a preposition to denote a specific point or place."
+    },
+    {
+      "Spanish": [
+        "¿En cuántas Copas del Mundo jugó Maradona?"
+      ],
+      "English": [
+        "How many World Cups did Maradona play in?"
+      ],
+      "bold": [
+        "in"
+      ],
+      "definition": "The preposition 'in' is used in this context to indicate participation within an event or occurrence. When asking about someone's participation in a series of events, such as World Cups, 'in' specifies the setting or context of the action (playing). It is common in English to end questions with prepositions when the preposition is part of a phrasal verb ('play in') or when it is necessary to complete the meaning of the question."
+    },
+    {
+      "Spanish": [
+        "¿Con quién fuiste al cine?"
+      ],
+      "English": [
+        "Who did you go to the movies with?",
+        "With whom did you go to the movies?"
+      ],
+      "bold": [
+        "with"
+      ],
+      "definition": "The preposition 'with' is used to inquire about companionship or association. In English, it's common to place prepositions at the end of questions when they are necessary to complete the meaning or when the question is formed with a phrasal verb. In a more formal context or in written English, you might want to avoid ending a sentence with a preposition. In such a case, you could say, “With whom did you go to the movies?”"
+    },
+    {
+      "Spanish": [
+        "¿De qué estás hablando?"
+      ],
+      "English": [
+        "What are you talking about?",
+        "About what are you talking?"
+      ],
+      "bold": [
+        "about"
+      ],
+      "definition": "The preposition 'about' is used to inquire about the subject or topic of conversation. Ending a question with a preposition is grammatically acceptable in English, especially in informal contexts.  In a more formal context, you could say, “About what are you talking?”"
+    },
+    {
+      "Spanish": [
+        "¿Dónde lo dejaste?"
+      ],
+      "English": [
+        "Where did you leave it at?"
+      ],
+      "bold": [
+        "at"
+      ],
+      "definition": "While 'at' in 'Where did you leave it at?' is a common colloquial usage, it's generally considered redundant. A more grammatically traditional form would be 'Where did you leave it?' However, such usage is widespread in informal spoken English."
+    },
+    {
+      "Spanish": [
+        "¿Por qué estás llorando?"
+      ],
+      "English": [
+        "What are you crying for?"
+      ],
+      "bold": [
+        "for"
+      ],
+      "definition": "The preposition 'for' is used to ask for the reason or cause of an action. Ending a question with a preposition is more common in spoken English and is usually acceptable in informal communication. In a more formal context, you could say, “For what are you crying?”"
     }
   ]
 }
