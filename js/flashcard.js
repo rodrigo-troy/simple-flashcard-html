@@ -12,10 +12,21 @@ class Phrase {
     }
 
     randomSpanishPhrase() {
+        if (!this.spanish.length) {
+            throw new Error('No Spanish phrases available');
+        }
+
         return this.spanish[Math.floor(Math.random() * this.spanish.length)];
     }
 
     boldEnglishPhrases() {
+        if (!this.english.length) {
+            throw new Error('No English phrases available');
+        }
+        if (!this.bold.length) {
+            throw new Error('No Bold phrases available');
+        }
+
         return this.english.map(englishPhrase => {
             return this.bold.reduce((phrase, bold) => {
                 const regex = new RegExp(bold, 'ig');
@@ -56,11 +67,17 @@ class Card {
 
     createElement(elementType, className, textContent = '', innerHTML = '') {
         let element = document.createElement(elementType);
-        element.className = className;
+
+        if (className) {
+            element.className = className;
+        }
+
         element.textContent = textContent;
+
         if (innerHTML) {
             element.innerHTML = innerHTML;
         }
+
         return element;
     }
 
