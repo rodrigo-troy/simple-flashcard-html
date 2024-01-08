@@ -592,7 +592,8 @@
       ],
       "bold": [
         "in"
-      ]
+      ],
+      "detail": "The preposition 'in' is used to indicate location or position within a space."
     },
     {
       "spanish": [
@@ -615,7 +616,8 @@
       ],
       "bold": [
         "tax on"
-      ]
+      ],
+      "detail": "'tax on' is a prepositional phrase that is used to indicate the object of the tax."
     },
     {
       "spanish": [
@@ -626,7 +628,8 @@
       ],
       "bold": [
         "on"
-      ]
+      ],
+      "detail": "The preposition 'on' is used to indicate location or position on a surface."
     },
     {
       "spanish": [
@@ -694,18 +697,8 @@
       ],
       "bold": [
         "banking"
-      ]
-    },
-    {
-      "spanish": [
-        "Nosotros hacemos karaoke todos los sábados."
       ],
-      "english": [
-        "We do karaoke every Saturday."
-      ],
-      "bold": [
-        "do karaoke"
-      ]
+      "detail": "The word 'banking' is a gerund. A gerund is a verb that is used as a noun. In this case, the gerund 'banking' is used as the object of the verb 'do'."
     },
     {
       "spanish": [
@@ -2036,10 +2029,10 @@
         "Enseño español a cambio de lecciones de inglés gratis."
       ],
       "english": [
-        "I teach Spanish in exchange for free English lessons."
+        "I teach spanish in exchange for free english lessons."
       ],
       "bold": [
-        "teach Spanish",
+        "teach spanish",
         "in exchange for"
       ]
     },
@@ -4371,10 +4364,10 @@
       "definition": "As I was saying: A phrase used to resume a conversation after being interrupted."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Él describió un escenario en el que perdería su trabajo."
       ],
-      "English": [
+      "english": [
         "He described a scenario wherein he would lose his job."
       ],
       "bold": [
@@ -4383,10 +4376,10 @@
       "definition": "The term 'wherein' is used to specify a condition or situation. In this example, it introduces the condition under which the individual could lose his job."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Es un proceso en el que el agua se convierte en vapor."
       ],
-      "English": [
+      "english": [
         "It's a process wherein water is converted into steam."
       ],
       "bold": [
@@ -4395,10 +4388,10 @@
       "definition": "The adverb 'wherein' is used to introduce a particular situation or condition. In this scientific context, it describes the specific transformation of water into steam."
     },
     {
-      "Spanish": [
+      "spanish": [
         "El contrato contiene una cláusula en la que las partes acuerdan arbitraje."
       ],
-      "English": [
+      "english": [
         "The contract contains a clause wherein the parties agree to arbitration."
       ],
       "bold": [
@@ -4407,10 +4400,10 @@
       "definition": "The term 'wherein' serves as a connecting word to specify the context or condition under which something occurs. In this example, it indicates the specific part of the contract that stipulates agreement to arbitration."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Ella los saludó con la mano."
       ],
-      "English": [
+      "english": [
         "She waved at them."
       ],
       "bold": [
@@ -4419,10 +4412,10 @@
       "definition": "The phrase 'waves at' refers to the act of moving one's hand back and forth as a gesture of greeting or acknowledgement. In this sentence, 'them' refers to the people who are being greeted or acknowledged by her."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Nunca he usado gafas."
       ],
-      "English": [
+      "english": [
         "I've never worn glasses."
       ],
       "bold": [
@@ -4431,10 +4424,10 @@
       "definition": "The phrase 'I've never worn' uses the present perfect tense ('I've' stands for 'I have') to describe a life experience up to this point in time. In this case, the experience is that the speaker has never worn glasses."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Nunca nos hemos encontrado antes."
       ],
-      "English": [
+      "english": [
         "We've never met before."
       ],
       "bold": [
@@ -4443,10 +4436,10 @@
       "definition": "The contraction 'We've' stands for 'We have.' It is often used in English to create a more casual or colloquial tone. In this sentence, it is part of the present perfect tense ('We have never met'), which is used to describe an experience up to the present."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Fui invitado a tu boda."
       ],
-      "English": [
+      "english": [
         "I was a guest at your wedding."
       ],
       "bold": [
@@ -4455,10 +4448,10 @@
       "definition": "In this context, the preposition 'at' is used to indicate the location or event where something took place. The preposition 'at' is traditionally used when talking about attendance at events like weddings, parties, or meetings."
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿Has seguido a Shakira en Instagram desde hace mucho tiempo?"
       ],
-      "English": [
+      "english": [
         "Have you been following Shakira on Instagram for very long?"
       ],
       "bold": [
@@ -4467,10 +4460,10 @@
       "definition": "The preposition 'on' is used here to specify the platform or medium that is being used to follow someone. In 'following Shakira on Instagram', 'on' indicates that the following is occurring within the Instagram service."
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿Cuánto tiempo te llevó convertirte en arquitecto?"
       ],
-      "English": [
+      "english": [
         "How long did it take for you to become an architect?"
       ],
       "bold": [
@@ -4479,10 +4472,10 @@
       "definition": "In this question, the preposition 'for' is used to indicate the duration of time necessary to complete a particular process, which in this case is the process of becoming an architect. The word 'for' connects the time duration with the action of becoming an architect. Using \"to\" in this sentence would not be appropriate because \"to\" is typically used to indicate direction, place, or position. When talking about time duration followed by an action, \"for\" is the preposition that is grammatically correct."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Fue agradable conocerte un poco más."
       ],
-      "English": [
+      "english": [
         "It was nice getting to know you a bit more."
       ],
       "bold": [
@@ -4491,10 +4484,10 @@
       "definition": "The sentence \"It was nice to know you a bit more\" is grammatically correct as well. However, this sentence could potentially be misunderstood because \"to know you\" in past tense may suggest that the interaction or relationship is over. If the intention is to continue getting to know the person, you use say: \"It's been nice getting to know you a bit more.\". This suggests that the process of getting to know the person is ongoing and may continue into the future."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Espera, ¿podrías pasarme la sal?"
       ],
-      "English": [
+      "english": [
         "Hang on, could you pass me the salt?"
       ],
       "bold": [
@@ -4503,10 +4496,10 @@
       "definition": "The phrase 'Hang on' is used here to politely interrupt or get someone's attention before making a request."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Espera, ¿podrías verificar si tienes tiempo libre mañana?"
       ],
-      "English": [
+      "english": [
         "Hang on, could you check if you’re free tomorrow?"
       ],
       "bold": [
@@ -4515,10 +4508,10 @@
       "definition": "The expression is used to interrupt the flow of conversation briefly to inquire about the other person's schedule."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Espera, ¿podrías ayudarme con mi computadora?"
       ],
-      "English": [
+      "english": [
         "Hang on, could you help me with my computer?"
       ],
       "bold": [
@@ -4527,10 +4520,10 @@
       "definition": "Here, 'Hang on' is used to pause the current conversation and request technical assistance."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Espera, ¿podrías explicarme eso otra vez?"
       ],
-      "English": [
+      "english": [
         "Hang on, could you explain that to me again?"
       ],
       "bold": [
@@ -4539,10 +4532,10 @@
       "definition": "This phrase is used to request someone to pause and provide a repetition or clarification of information."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Me ahorraste horas de ensayo y error."
       ],
-      "English": [
+      "english": [
         "You saved me hours of trial and error."
       ],
       "bold": [
@@ -4552,10 +4545,10 @@
       "definition": "The phrase 'saved me hours' implies that due to someone's help or intervention, a significant amount of time was conserved. 'Trial and error' is a method of solving problems through repeated, varied attempts which continue until success, or until the practicer stops trying."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Me habría llevado horas encontrar la solución."
       ],
-      "English": [
+      "english": [
         "It would have taken me hours to find the solution."
       ],
       "bold": [
@@ -4564,10 +4557,10 @@
       "definition": "The phrase 'would have taken' is used to express a hypothetical situation in the past. It indicates that if a certain action had been pursued, it would have required a significant amount of time, in this case, hours, to complete."
     },
     {
-      "Spanish": [
+      "spanish": [
         "En dos horas, llegaremos a nuestro destino."
       ],
-      "English": [
+      "english": [
         "In two hours, we will arrive at our destination."
       ],
       "bold": [
@@ -4576,11 +4569,11 @@
       "definition": "The phrase 'arrive at' is used to indicate reaching a destination. 'At' is the correct preposition to use with 'arrive' when referring to a specific place. While 'to' is used for direction, 'at' is used for destinations, indicating a point of arrival rather than the act of moving towards something. In English, the preposition \"to\" is generally used to indicate movement towards a place or a direction. However, when it comes to the verb \"arrive,\" the convention is to use \"at\" for specific places (like cities, buildings, or destinations) and \"in\" for larger areas (like countries or large cities)."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Aún no hay electricidad en la casa nueva.",
         "Todavía no hay electricidad en la casa nueva."
       ],
-      "English": [
+      "english": [
         "There's no power yet at the new house."
       ],
       "bold": [
@@ -4589,10 +4582,10 @@
       "definition": "'At' is used here as a preposition to denote a specific point or place."
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿En cuántas Copas del Mundo jugó Maradona?"
       ],
-      "English": [
+      "english": [
         "How many World Cups did Maradona play in?"
       ],
       "bold": [
@@ -4601,10 +4594,10 @@
       "definition": "The preposition 'in' is used in this context to indicate participation within an event or occurrence. When asking about someone's participation in a series of events, such as World Cups, 'in' specifies the setting or context of the action (playing). It is common in English to end questions with prepositions when the preposition is part of a phrasal verb ('play in') or when it is necessary to complete the meaning of the question."
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿Con quién fuiste al cine?"
       ],
-      "English": [
+      "english": [
         "Who did you go to the movies with?",
         "With whom did you go to the movies?"
       ],
@@ -4614,10 +4607,10 @@
       "definition": "The preposition 'with' is used to inquire about companionship or association. In English, it's common to place prepositions at the end of questions when they are necessary to complete the meaning or when the question is formed with a phrasal verb. In a more formal context or in written English, you might want to avoid ending a sentence with a preposition. In such a case, you could say, “With whom did you go to the movies?”"
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿De qué estás hablando?"
       ],
-      "English": [
+      "english": [
         "What are you talking about?",
         "About what are you talking?"
       ],
@@ -4627,10 +4620,10 @@
       "definition": "The preposition 'about' is used to inquire about the subject or topic of conversation. Ending a question with a preposition is grammatically acceptable in English, especially in informal contexts.  In a more formal context, you could say, “About what are you talking?”"
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿Dónde lo dejaste?"
       ],
-      "English": [
+      "english": [
         "Where did you leave it at?"
       ],
       "bold": [
@@ -4639,10 +4632,10 @@
       "definition": "While 'at' in 'Where did you leave it at?' is a common colloquial usage, it's generally considered redundant. A more grammatically traditional form would be 'Where did you leave it?' However, such usage is widespread in informal spoken English."
     },
     {
-      "Spanish": [
+      "spanish": [
         "¿Por qué estás llorando?"
       ],
-      "English": [
+      "english": [
         "What are you crying for?"
       ],
       "bold": [
@@ -4651,10 +4644,10 @@
       "definition": "The preposition 'for' is used to ask for the reason or cause of an action. Ending a question with a preposition is more common in spoken English and is usually acceptable in informal communication. In a more formal context, you could say, “For what are you crying?”"
     },
     {
-      "Spanish": [
+      "spanish": [
         "Era como si ella fuera invisible."
       ],
-      "English": [
+      "english": [
         "It was like she was invisible."
       ],
       "bold": [
@@ -4663,10 +4656,10 @@
       "definition": "In this context, 'like' is used as a conjunction to introduce a simile, which is a figure of speech comparing two unlike things, often introduced by the word 'like' or 'as.' Here, it suggests that the way she was being treated or perceived was as if she were invisible, not literally unseen but possibly ignored or not acknowledged by others."
     },
     {
-      "Spanish": [
+      "spanish": [
         "Siento que se acerca una evacuación intestinal."
       ],
-      "English": [
+      "english": [
         "I feel a bowel movement coming on."
       ],
       "bold": [

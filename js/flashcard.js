@@ -13,19 +13,13 @@ class Phrase {
 
     randomSpanishPhrase() {
         if (!this.spanish.length) {
-            throw new Error('No Spanish phrases available');
+            return '';
         }
 
         return this.spanish[Math.floor(Math.random() * this.spanish.length)];
     }
 
     boldEnglishPhrases() {
-        if (!this.english.length) {
-            throw new Error('No English phrases available');
-        }
-        if (!this.bold.length) {
-            throw new Error('No Bold phrases available');
-        }
 
         return this.english.map(englishPhrase => {
             return this.bold.reduce((phrase, bold) => {
@@ -108,16 +102,27 @@ class App {
 
     async init() {
         try {
-            let response = await fetch('phrases.json');
-            let json = await response.json();
-            this.createCards(json['phrases']);
+            const phrases = await this.fetchData('phrases.json');
+            this.processPhrases(phrases);
             console.log("Initialized...");
         } catch (err) {
             console.error(err);
         }
     }
 
-    createCards(phraseData) {
+    async fetchData(uri) {
+        let response = await fetch(uri);
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        let json = await response.json();
+        console.log("Number of elements: ", json['phrases'].length);
+
+        return json['phrases'];
+    }
+
+    processPhrases(phraseData) {
         phraseData
             .map(item => new Phrase(item))
             .sort(() => 0.5 - Math.random())
