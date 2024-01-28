@@ -4,6 +4,11 @@ body {
     background: ghostwhite center no-repeat;
 }
 
+#infoModal {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
 .grid {
     display: grid;
     grid-gap: 20px;
@@ -59,12 +64,12 @@ body {
 }
 
 .flip-card-front p {
-    font-size: 25px;
+    font-size: x-large;
 }
 
 .flip-card-back p {
     flex-basis: 100%;
-    font-size: 20px;
+    font-size: x-large;
 }
 
 .flip-card-back > p > b {
