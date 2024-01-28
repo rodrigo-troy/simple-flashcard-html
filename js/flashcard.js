@@ -38,16 +38,16 @@ class Card {
 
     createFrontSide() {
         let divFront = this.createElement('div', 'flip-card-front');
-        let p = this.createElement('p', '', this.phrase.randomSpanishPhrase());
+        let p = this.createElement('p', 'text-wrap', this.phrase.randomSpanishPhrase());
         divFront.appendChild(p);
         return divFront;
     }
 
     createBackSide() {
-        let divBack = this.createElement('div', 'flip-card-back');
+        let divBack = this.createElement('div', 'flip-card-back shadow-lg');
 
         this.phrase.boldEnglishPhrases().forEach(text => {
-            divBack.appendChild(this.createElement('p', '', '', text));
+            divBack.appendChild(this.createElement('p', 'text-wrap', '', text));
         });
 
         if (this.phrase.definition) {
@@ -96,7 +96,21 @@ class Card {
 
     flipCard(e) {
         if (!e.target.closest('.info-icon')) {
-            e.currentTarget.classList.toggle('flipped');
+            let card = e.currentTarget;
+            let cards = document.querySelectorAll('.flip-card');
+            if (card.classList.contains('flipped')) {
+                card.classList.remove('flipped');
+                cards.forEach(c => c.classList.remove('invisible'));
+                document.documentElement.style.overflow = '';
+            } else {
+                card.classList.add('flipped');
+                cards.forEach(c => {
+                    if (c !== card) {
+                        c.classList.add('invisible');
+                    }
+                });
+                document.documentElement.style.overflow = 'hidden';
+            }
         }
     }
 }
