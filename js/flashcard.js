@@ -1,5 +1,6 @@
 /*jshint esversion: 8 */
 /*jshint browser: true */
+
 /* global console */
 
 class Phrase {
@@ -127,9 +128,19 @@ class App {
     }
 
     processPhrases(phraseData) {
+        phraseData = phraseData.map(item => new Phrase(item));
+
+        let currentIndex = phraseData.length, temporaryValue, randomIndex;
+        while (currentIndex !== 0) {
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex -= 1;
+
+            temporaryValue = phraseData[currentIndex];
+            phraseData[currentIndex] = phraseData[randomIndex];
+            phraseData[randomIndex] = temporaryValue;
+        }
+
         phraseData
-            .map(item => new Phrase(item))
-            .sort(() => 0.5 - Math.random())
             .map(phrase => new Card(phrase))
             .forEach(card => this.rootElement.appendChild(card.createCard()));
     }
