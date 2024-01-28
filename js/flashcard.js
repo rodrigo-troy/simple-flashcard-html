@@ -50,12 +50,17 @@ class Card {
 
         if (this.phrase.definition) {
             let span = this.createElement('span', 'info-icon', 'ℹ️');
+
             span.addEventListener('click', (e) => {
                 e.stopPropagation();
-                alert(this.phrase.definition);
-            })
+                let modal = new bootstrap.Modal(document.getElementById('infoModal'));
+                document.querySelector('#infoModal .modal-body').textContent = this.phrase.definition;
+                modal.show();
+            });
+
             divBack.appendChild(span);
         }
+
         return divBack;
     }
 
@@ -111,13 +116,14 @@ class App {
     }
 
     async fetchData(uri) {
-        let response = await fetch(uri);
+        let [response] = await Promise.all([fetch(uri)]);
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
+
         let json = await response.json();
-        console.log("Number of elements: ", json['phrases'].length);
+        console.log("Number of elements: ", json.phrases.length);
 
         return json['phrases'];
     }
