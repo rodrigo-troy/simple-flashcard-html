@@ -3,6 +3,8 @@
 
 /* global console */
 
+/* global bootstrap */
+
 class Phrase {
     constructor(json) {
         this.english = json.english || [];
@@ -43,6 +45,7 @@ class Card {
 
     createBackSide() {
         let divBack = this.createElement('div', 'flip-card-back');
+
         this.phrase.boldEnglishPhrases().forEach(text => {
             divBack.appendChild(this.createElement('p', '', '', text));
         });
@@ -124,7 +127,7 @@ class App {
         let json = await response.json();
         console.log("Number of elements: ", json.phrases.length);
 
-        return json['phrases'];
+        return json.phrases;
     }
 
     createCards(phraseData) {
