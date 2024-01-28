@@ -34,14 +34,14 @@ class Card {
         this.phrase = phrase;
     }
 
-    createCardFront() {
+    createFrontSide() {
         let divFront = this.createElement('div', 'flip-card-front');
         let p = this.createElement('p', '', this.phrase.randomSpanishPhrase());
         divFront.appendChild(p);
         return divFront;
     }
 
-    createCardBack() {
+    createBackSide() {
         let divBack = this.createElement('div', 'flip-card-back');
         this.phrase.boldEnglishPhrases().forEach(text => {
             divBack.appendChild(this.createElement('p', '', '', text));
@@ -84,8 +84,8 @@ class Card {
         let divChild = this.createElement('div', 'flip-card-inner');
         div.appendChild(divChild);
 
-        divChild.appendChild(this.createCardFront());
-        divChild.appendChild(this.createCardBack());
+        divChild.appendChild(this.createFrontSide());
+        divChild.appendChild(this.createBackSide());
 
         div.addEventListener('click', this.flipCard);
         return div;
