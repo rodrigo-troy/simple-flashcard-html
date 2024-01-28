@@ -1,6 +1,5 @@
 /*jshint esversion: 8 */
 /*jshint browser: true */
-
 /* global console */
 
 class Phrase {
@@ -20,10 +19,9 @@ class Phrase {
     }
 
     boldEnglishPhrases() {
-
         return this.english.map(englishPhrase => {
             return this.bold.reduce((phrase, bold) => {
-                const regex = new RegExp(bold, 'ig');
+                const regex = new RegExp(`\\b${bold}\\b`, 'ig');
                 return phrase.replace(regex, `<b>${bold.toLowerCase()}</b>`);
             }, englishPhrase);
         });
