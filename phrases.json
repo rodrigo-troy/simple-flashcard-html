@@ -778,7 +778,8 @@
       ],
       "bold": [
         "as well as"
-      ]
+      ],
+      "definition": "The phrase 'as well as' in this context is used to make a comparison. It means to reach the same level of quality or ability. Here, it indicates the speaker's desire to achieve a level of writing skill that is comparable to John's. This phrase is commonly used in English to compare abilities, qualities, or actions, showing similarity or equivalence between them."
     },
     {
       "spanish": [
@@ -788,7 +789,7 @@
         "You will succeed by passing the exam."
       ],
       "bold": [
-        "succeed by passing"
+        "succeed by"
       ]
     },
     {
@@ -1659,7 +1660,8 @@
       "bold": [
         "healthy food",
         "on vacation"
-      ]
+      ],
+      "definition": "In English, the preposition 'on' is commonly used with certain nouns like 'vacation' or 'holiday' to indicate a state or condition. The use of 'on' in 'on vacation' or 'on holiday' suggests that one is in a specific state of being — in this case, the state of being on a break or away from work. For example: 'I was on leave.'"
     },
     {
       "spanish": [
@@ -1764,8 +1766,10 @@
         "She wants to try them on."
       ],
       "bold": [
-        "them"
-      ]
+        "try",
+        "on"
+      ],
+      "definition": "The phrase 'try on' is a phrasal verb that means to put on an article of clothing to see how it fits or looks."
     },
     {
       "spanish": [
@@ -2410,8 +2414,9 @@
         "Don't take notice of her."
       ],
       "bold": [
-        ""
-      ]
+        "take notice"
+      ],
+      "definition": "To take notice of someone or something means to pay attention to them."
     },
     {
       "spanish": [
@@ -2447,7 +2452,8 @@
       ],
       "bold": [
         "in a hurry"
-      ]
+      ],
+      "definition": "If you do something in a hurry, you do it quickly because you do not have much time."
     },
     {
       "spanish": [
@@ -2458,7 +2464,8 @@
       ],
       "bold": [
         "engaged to"
-      ]
+      ],
+      "definition": "If two people are engaged, they have agreed to marry each other."
     },
     {
       "spanish": [
@@ -2470,7 +2477,8 @@
       "bold": [
         "agreed to",
         "in installments"
-      ]
+      ],
+      "definition": "An installment is one of a number of payments that are made regularly until something has been paid for."
     },
     {
       "spanish": [
@@ -2504,7 +2512,8 @@
       ],
       "bold": [
         "in a hurry"
-      ]
+      ],
+      "definition": "If you are in a hurry, you need to do something or go somewhere as soon as possible."
     },
     {
       "spanish": [
@@ -2515,7 +2524,8 @@
       ],
       "bold": [
         "on vacation"
-      ]
+      ],
+      "definition": "In English, the preposition 'on' is commonly used with certain nouns like 'vacation' or 'holiday' to indicate a state or condition. The use of 'on' in 'on vacation' or 'on holiday' suggests that one is in a specific state of being — in this case, the state of being on a break or away from work. For example: 'I was on leave.'"
     },
     {
       "spanish": [
@@ -2563,7 +2573,8 @@
       "bold": [
         "get",
         "way"
-      ]
+      ],
+      "definition": "If you get your way, you get what you want, especially when someone else is trying to prevent you from getting it."
     },
     {
       "spanish": [
@@ -2575,7 +2586,8 @@
       "bold": [
         "get",
         "way"
-      ]
+      ],
+      "definition": "If you get your way, you get what you want, especially when someone else is trying to prevent you from getting it."
     },
     {
       "spanish": [
@@ -2601,7 +2613,8 @@
       ],
       "bold": [
         "snapping up"
-      ]
+      ],
+      "definition": "If you snap something up, you buy it quickly because it is cheap or you want it very much."
     },
     {
       "spanish": [
@@ -2612,7 +2625,8 @@
       ],
       "bold": [
         "on the schedule"
-      ]
+      ],
+      "definition": "If an event is on the schedule, it is planned to happen at a particular time."
     },
     {
       "spanish": [
@@ -2623,7 +2637,8 @@
       ],
       "bold": [
         "since then"
-      ]
+      ],
+      "definition": "Since then means from a particular time in the past until the present, or until a particular time in the past."
     },
     {
       "spanish": [
@@ -2749,17 +2764,6 @@
       ],
       "bold": [
         "protected by"
-      ]
-    },
-    {
-      "spanish": [
-        "Usualmente nos reunimos en el gimnasio."
-      ],
-      "english": [
-        "We usually meet up at the gym."
-      ],
-      "bold": [
-        "meet up"
       ]
     },
     {
@@ -4727,6 +4731,90 @@
         "flown with"
       ],
       "definition": "The phrase “flown with” is used to express the idea of having traveled with a particular airline before. In this context, the speaker is asking whether the person had traveled with that airline in the past."
+    },
+    {
+      "spanish": [
+        "Disfruto viendo películas."
+      ],
+      "english": [
+        "I enjoy watching movies."
+      ],
+      "bold": [
+        "enjoy watching"
+      ],
+      "definition": "The verb 'enjoy' is often followed by a gerund ('-ing' form), which turns the following verb into a noun phrase. In this case, 'watching movies' becomes the activity that is enjoyed."
+    },
+    {
+      "spanish": [
+        "Evito hacer mi tarea hasta el último momento."
+      ],
+      "english": [
+        "I avoid doing my homework until the last minute."
+      ],
+      "bold": [
+        "avoid doing"
+      ],
+      "definition": "The verb 'avoid' is often followed by a gerund ('-ing' form)."
+    },
+    {
+      "spanish": [
+        "Estoy considerando comprar una casa."
+      ],
+      "english": [
+        "I am considering buying a house."
+      ],
+      "bold": [
+        "considering buying"
+      ],
+      "definition": "The verb 'consider' is often followed by a gerund ('-ing' form)."
+    },
+    {
+      "spanish": [
+        "Terminé de leer el libro."
+      ],
+      "english": [
+        "I finished reading the book."
+      ],
+      "bold": [
+        "finished reading"
+      ],
+      "definition": "The verb 'finish' is often followed by a gerund ('-ing' form)."
+    },
+    {
+      "spanish": [
+        "Tengo ganas de ir a la playa."
+      ],
+      "english": [
+        "I feel like going to the beach."
+      ],
+      "bold": [
+        "feel like"
+      ],
+      "definition": "The phrase 'feel like' is used to express a wish for something, or to want to do something, at a particular moment."
+    },
+    {
+      "spanish": [
+        "No me apetece salir esta noche."
+      ],
+      "english": [
+        "I don’t feel like going out tonight."
+      ],
+      "bold": [
+        "don’t feel like"
+      ],
+      "definition": "The phrase 'don’t feel like' indicates a lack of desire or inclination to do something, in this case, going out. It expresses a preference to avoid a particular activity at a specific time."
+    },
+    {
+      "spanish": [
+        "Tengo ganas de ver una película."
+      ],
+      "english": [
+        "I feel like watching a movie."
+      ],
+      "bold": [
+        "feel like"
+      ],
+      "definition": "The phrase 'feel like' is used to express a wish for something, or to want to do something, at a particular moment."
     }
   ]
 }
