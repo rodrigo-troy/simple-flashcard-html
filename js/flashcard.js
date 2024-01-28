@@ -107,7 +107,7 @@ class App {
     async init() {
         try {
             const phrases = await this.fetchData('phrases.json');
-            this.processPhrases(phrases);
+            this.createCards(phrases);
             console.log("Initialized...");
         } catch (err) {
             console.error(err);
@@ -127,7 +127,7 @@ class App {
         return json['phrases'];
     }
 
-    processPhrases(phraseData) {
+    createCards(phraseData) {
         phraseData = phraseData.map(item => new Phrase(item));
 
         let currentIndex = phraseData.length, temporaryValue, randomIndex;
