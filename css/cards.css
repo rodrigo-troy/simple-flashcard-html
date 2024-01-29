@@ -26,7 +26,7 @@ body {
 
 .flip-card {
     background-color: transparent;
-    width: 250px;
+    width: 350px;
     height: auto;
     min-height: 250px;
 }
@@ -50,7 +50,7 @@ body {
     border-radius: 20px;
     position: absolute;
     width: 100%;
-    min-height: 250px;
+    min-height: 350px;
     height: auto;
     -webkit-backface-visibility: hidden; /* Safari */
     backface-visibility: hidden;
@@ -99,7 +99,6 @@ body {
     right: 10px;
     font-size: 20px;
 }
-
 
 /* Add @media at the bottom of your CSS file */
 @media screen and (max-width: 1024px) {
