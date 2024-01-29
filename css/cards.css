@@ -1,6 +1,13 @@
+:root {
+    --min-height: 350px;
+    --font-weight: 300;
+    --width: 100%;
+    --height: auto;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: var(--font-weight);
     background: ghostwhite center no-repeat;
 }
 
@@ -26,15 +33,15 @@ body {
 
 .flip-card {
     background-color: transparent;
-    width: 350px;
-    height: auto;
-    min-height: 250px;
+    width: var(--min-height);
+    height: var(--height);
+    min-height: var(--min-height);
 }
 
 .flip-card-inner {
     position: relative;
-    width: 100%;
-    height: 100%;
+    width: var(--width);
+    height: var(--width);
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
@@ -49,9 +56,9 @@ body {
     justify-content: center;
     border-radius: 20px;
     position: absolute;
-    width: 100%;
-    min-height: 350px;
-    height: auto;
+    width: var(--width);
+    min-height: var(--min-height);
+    height: var(--height);
     -webkit-backface-visibility: hidden; /* Safari */
     backface-visibility: hidden;
 }
@@ -67,7 +74,7 @@ body {
 }
 
 .flip-card-front p, .flip-card-back p {
-    margin: auto;
+    margin: var(--height);
     color: white;
     padding: 15px;
 }
@@ -77,7 +84,7 @@ body {
 }
 
 .flip-card-back p {
-    flex-basis: 100%;
+    flex-basis: var(--width);
     font-size: x-large;
 }
 
@@ -107,9 +114,9 @@ body {
 /* Add @media at the bottom of your CSS file */
 @media screen and (max-width: 1024px) {
     .flip-card {
-        width: 100%;
+        width: var(--width);
         height: 0; /* Reset the height */
-        padding-bottom: 100%; /* Set the padding-bottom to maintain aspect ratio */
+        padding-bottom: var(--width); /* Set the padding-bottom to maintain aspect ratio */
         position: relative; /* Make .flip-card a containing block for .flip-card-inner */
     }
 
@@ -117,7 +124,7 @@ body {
         position: absolute; /* Make .flip-card-inner absolute positioned */
         top: 0;
         left: 0;
-        width: 100%;
-        height: 100%; /* Let it fill the .flip-card element */
+        width: var(--width);
+        height: var(--width); /* Let it fill the .flip-card element */
     }
 }
