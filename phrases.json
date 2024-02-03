@@ -2715,22 +2715,24 @@
         "No soy bueno dibujando."
       ],
       "english": [
-        "I'm not good at drawing"
+        "I'm not good at drawing."
       ],
       "bold": [
-        "good at drawing"
-      ]
+        "good at"
+      ],
+      "definition": "The phrase 'good at' is used to express proficiency or skill in a particular activity or field. In this context, 'good at drawing' indicates the speaker's level of skill in the activity of drawing. Using 'good at' before a gerund (like 'drawing') is a common way to discuss one's ability or competence in doing something."
     },
     {
       "spanish": [
-        "Puede planear dejar de trabajar."
+        "Puedes planear dejar de trabajar."
       ],
       "english": [
         "You can plan on stopping work."
       ],
       "bold": [
-        "plan on stopping"
-      ]
+        "plan on"
+      ],
+      "definition": "The phrasal verb 'plan on' is used to indicate one's intention or decision to engage in a particular action in the future. Unlike the simple verb 'plan,' which can be used more generally for any kind of planning, 'plan on' specifically implies a strong intention or a commitment towards an action. In this sentence, 'plan on stopping work' suggests that the individual is seriously considering or has decided to cease working, which could mean retiring or taking an extended break from their professional life."
     },
     {
       "spanish": [
@@ -4815,9 +4817,166 @@
         "feel like"
       ],
       "definition": "The phrase 'feel like' is used to express a wish for something, or to want to do something, at a particular moment."
+    },
+    {
+      "spanish": [
+        "Ella picoteó la merienda."
+      ],
+      "english": [
+        "She nibbled at the snack."
+      ],
+      "bold": [
+        "nibbled at"
+      ],
+      "definition": "The phrase 'nibbled at' is used to describe the action of eating something in small bites, often slowly or with hesitation. The preposition 'at' here emphasizes the targeted, yet gentle, action of biting into the specific item being eaten."
+    },
+    {
+      "spanish": [
+        "Ella mordisqueó la idea de llamar a su amiga para disculparse"
+      ],
+      "english": [
+        "She nibbled at the thought of calling her friend to apologize"
+      ],
+      "bold": [
+        "nibbled at"
+      ],
+      "definition": "The phrase 'nibbled at' is used to describe the action of slowly and hesitantly considering something, in this case, the idea of calling her friend to apologize."
+    },
+    {
+      "spanish": [
+        "John mordisqueó la idea de mudarse a una nueva ciudad"
+      ],
+      "english": [
+        "John nibbled at the thought of moving to a new city"
+      ],
+      "bold": [
+        "nibbled at"
+      ],
+      "definition": "The phrase 'nibbled at' is used to describe the action of slowly and hesitantly considering something, in this case, the idea of moving to a new city."
+    },
+    {
+      "spanish": [
+        "Algunas personas dicen que el lago tiene forma de cara."
+      ],
+      "english": [
+        "Some people say the lake has the shape of a face."
+      ],
+      "bold": [
+        "has the shape of"
+      ],
+      "definition": "The phrase 'has the shape of' is used to describe the form or appearance of something, in this case, the lake. It indicates that the lake's physical structure or outline resembles that of a face."
+    },
+    {
+      "spanish": [
+        "Y acababa de ponerme una camisa limpia."
+      ],
+      "english": [
+        "And I had just put on a clean shirt."
+      ],
+      "bold": [
+        "put on"
+      ],
+      "definition": "The phrasal verb 'put on' means to place clothing on one's body. In this sentence, it indicates that the speaker recently dressed themselves in a clean shirt."
+    },
+    {
+      "spanish": [
+        "Realmente nunca habíamos discutido antes de viajar juntos."
+      ],
+      "english": [
+        "We had never really argued before traveling together."
+      ],
+      "bold": [
+        "had"
+      ],
+      "definition": "In English grammar, the position of adverbs such as \"never\" and \"really\" in relation to auxiliary verbs like \"had\" is quite flexible, but there are certain placements that sound more natural and are more commonly used by native speakers. In the sentence \"We had never really argued before traveling together,\" \"never really\" is used to modify the verb phrase \"had argued\" by indicating that something did not happen to any real extent at any time up to a certain point in the past.\n\nThe placement of \"never really\" before \"had\" (as in \"We never really had argued before traveling together\") is grammatically possible but less common in modern English usage. This positioning might slightly alter the emphasis or the flow of the sentence, making it sound more formal or less natural in everyday speech. Typically, in English, the adverb or adverbial phrase that modifies the verb comes after the first auxiliary (helping) verb if there is one in a verb phrase. This rule helps to maintain clarity and readability."
+    },
+    {
+      "spanish": [
+        "¿No estuvo soleado ayer?"
+      ],
+      "english": [
+        "Wasn't it sunny yesterday?"
+      ],
+      "bold": [
+        "Wasn't"
+      ],
+      "definition": "The word 'Wasn't' is a contraction of 'was not' and is used here as the negative form of the past tense of 'to be.' The sentence is structured as a negative question, which implies that the speaker expects agreement or confirmation that it was indeed sunny yesterday."
+    },
+    {
+      "spanish": [
+        "¿En qué continente está Guatemala?"
+      ],
+      "english": [
+        "Which continent is Guatemala in?"
+      ],
+      "bold": [
+        "in"
+      ],
+      "definition": "The preposition 'in' is used in this question to inquire about the location, specifically asking for the name of the continent where Guatemala is situated. In English questions, it is common to place the preposition at the end of the question when it is associated with a 'wh-' question word like 'which.'"
+    },
+    {
+      "spanish": [
+        "¿Has leído la novela para el club de lectura de este mes?"
+      ],
+      "english": [
+        "Have you read the novel for this month's book club?"
+      ],
+      "bold": [
+        "for this month's book club"
+      ],
+      "definition": "The preposition 'for' in this sentence is used to indicate the purpose or reason for reading the novel, which is to participate in this month's book club. It connects the action of reading with the event (book club) that the reading is intended for."
+    },
+    {
+      "spanish": [
+        "Pasaré por la tienda de camino al picnic."
+      ],
+      "english": [
+        "I'll stop by the store on the way to the picnic."
+      ],
+      "bold": [
+        "stop by",
+        "on the way"
+      ],
+      "definition": "The phrase 'stop by' is used to indicate a brief visit or stop at a location. 'On the way' is used to describe the route or direction of travel, indicating that the store is located along the path to the picnic."
+    },
+    {
+      "spanish": [
+        "Pasaré por la tienda de camino al picnic."
+      ],
+      "english": [
+        "I'll stop by the store on the way to the picnic."
+      ],
+      "bold": [
+        "stop by",
+        "on the way"
+      ],
+      "definition": "The phrase 'stop by' is used to indicate a brief visit or stop at a location. 'On the way' is used to describe the route or direction of travel, indicating that the store is located along the path to the picnic."
+    },
+    {
+      "spanish": [
+        "¿Por qué habla el entrenador más de lo que habla el boxeador?"
+      ],
+      "english": [
+        "Why is the coach talking more than the boxer is?"
+      ],
+      "bold": [
+        "is"
+      ],
+      "definition": "The word 'is' at the end of the sentence is used to maintain subject-verb agreement. In English, it is common to place the verb at the end of the sentence when it is associated with a comparison, especially when the comparison is between two subjects."
+    },
+    {
+      "spanish": [
+        "Pasamos el verano en la costa de España."
+      ],
+      "english": [
+        "We spent the summer on the coast of Spain."
+      ],
+      "bold": [
+        "on"
+      ],
+      "definition": "The sentence uses \"on\" instead of \"in\" because when referring to the coast, English speakers typically use \"on\" to convey the idea of being at a specific boundary or edge of a landmass next to the sea. \"On the coast\" suggests a location that is directly adjacent to the sea, emphasizing the idea of being right at the seaside, where the land meets the water.\n\nOn the other hand, \"in\" is used for more general locations that are considered to be inside an area, such as \"in Spain\" or \"in a city.\" It implies being within the borders or confines of a larger, more enclosed space, not necessarily at the edge or boundary."
     }
   ]
 }
-
 
 
