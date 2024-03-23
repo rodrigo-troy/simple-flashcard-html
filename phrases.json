@@ -1030,7 +1030,11 @@
       "bold": [
         "takes a trip",
         "in the summer"
-      ]
+      ],
+      "definition": {
+        "takes a trip": "This phrase employs the verb 'takes,' which, when combined with 'a trip,' forms a colloquial expression for engaging in travel. The action is presented in the simple present tense, denoting a habitual activity.",
+        "in the summer": "The prepositional phrase 'in the summer' specifies the time frame of the habitual action. 'In' is used as a preposition of time here, which is typical for referring to seasons, months, years, and parts of the day."
+      }
     },
     {
       "spanish": [
@@ -1041,8 +1045,14 @@
       ],
       "bold": [
         "takes a trip",
-        "to Africa"
-      ]
+        "to Africa",
+        "every year"
+      ],
+      "definition": {
+        "takes a trip": "A colloquial expression where 'takes' is the verb in simple present tense used with 'a trip' to indicate the action of traveling. This phrasal verb 'take a trip' is common in conversational English.",
+        "to Africa": "Here, 'to' functions as a preposition indicating direction towards a destination, which in this case is the continent 'Africa'.",
+        "every year": "This adverbial phrase indicates frequency, denoting that the action of taking a trip is a regular occurrence and happens annually."
+      }
     },
     {
       "spanish": [
@@ -2195,7 +2205,7 @@
     },
     {
       "spanish": [
-        "Soy alergico a las nueces."
+        "Soy alérgico a las nueces\n."
       ],
       "english": [
         "I'm allergic to nuts."
@@ -3423,9 +3433,13 @@
         "What sets 5G and 6G apart from each other?"
       ],
       "bold": [
+        "sets ... apart",
         "from each other"
       ],
-      "definition": ""
+      "definition": {
+        "sets ... apart": "This phrasal verb 'sets apart' is used to indicate what makes two or more things distinct or different from one another.",
+        "from each other": "The phrase 'from each other' is a reciprocal pronoun construction that specifies the mutual relationship between two distinct subjects, indicating that the comparison or difference is bidirectional."
+      }
     },
     {
       "spanish": [
@@ -3438,7 +3452,9 @@
       "bold": [
         "Why is it"
       ],
-      "definition": ""
+      "definition": {
+        "Why is it": "This phrase is a standard structure in English for forming questions about the reason or cause of something. 'Why' is the interrogative adverb asking for the reason, 'is' is the third-person singular form of the verb 'to be,' and 'it' serves as a pronoun referring to the subject under discussion, in this case, something that is 'harmful.'"
+      }
     },
     {
       "spanish": [
@@ -3477,7 +3493,10 @@
         "does",
         "do"
       ],
-      "definition": ""
+      "definition": {
+        "does": "In this context, 'does' is an auxiliary verb used to form a question in the simple present tense. It is used with the base form of the main verb 'do' to inquire about the action or function of the subject 'the machine.'",
+        "do": "Here, 'do' is the main verb in its base form, following the auxiliary 'does.' It is used to ask about the specific action, function, or activity performed by 'the machine.'"
+      }
     },
     {
       "spanish": [
@@ -3490,7 +3509,10 @@
         "What",
         "like"
       ],
-      "definition": ""
+      "definition": {
+        "What": "In this context, 'What' is used as an interrogative pronoun to inquire about the nature or characteristics of something, in this case, 'life in the eighties.'",
+        "like": "Here, 'like' is used as a preposition to introduce a simile or comparison. In the question 'What was life like in the eighties?' it serves to ask for a description or characterization of life during that time period."
+      }
     },
     {
       "spanish": [
@@ -3503,7 +3525,10 @@
         "remind you of",
         "the smell of"
       ],
-      "definition": ""
+      "definition": {
+        "remind you of": "The phrasal verb 'remind you of' is used to express that something triggers a memory or association in someone's mind. In this case, it suggests that the smell of barbecue evokes memories or feelings associated with summer.",
+        "the smell of": "This phrase is used to describe the particular scent or aroma that comes from something. 'The smell of barbecue' refers to the distinctive odor produced by cooking food on a grill, which is being associated with summer in this context."
+      }
     },
     {
       "spanish": [
@@ -3531,7 +3556,7 @@
     },
     {
       "spanish": [
-        "¿Cuento tiempo lleva sucediento esto?"
+        "¿Cuánto tiempo lleva sucediendo esto?"
       ],
       "english": [
         "How long has this been going on?",
@@ -3541,7 +3566,10 @@
         "going on",
         "happening"
       ],
-      "definition": ""
+      "definition": {
+        "going on": "The phrase 'going on' is a colloquial expression used to describe an event or situation that has been occurring or continuing for a certain period of time. It emphasizes the ongoing nature of the action.",
+        "happening": "The verb 'happening' is used to refer to an event or situation that is currently occurring or taking place. It highlights the present and ongoing aspect of the action."
+      }
     },
     {
       "spanish": [
@@ -3556,7 +3584,10 @@
         "People are",
         "get paid"
       ],
-      "definition": "The phrase \"people are\" is used to describe a general truth or fact. It is often used to introduce a statement that is true for everyone or for a large group of people. It is also used to introduce a statement that is true for a large group of people in a particular situation or context."
+      "definition": {
+        "People are": "The phrase 'People are' is used in passive voice constructions to describe a state or condition that applies generally to a group of individuals. It indicates that the following characteristic (being 'paid well') is true for 'people' as a collective group in this country.",
+        "get paid": "The phrase 'get paid' is an active voice expression that describes the action of receiving payment for work or services. In the context of 'People get paid well in this country,' it emphasizes the act of receiving compensation and highlights that it is a favorable amount."
+      }
     },
     {
       "spanish": [
@@ -4975,6 +5006,22 @@
         "on"
       ],
       "definition": "The sentence uses \"on\" instead of \"in\" because when referring to the coast, English speakers typically use \"on\" to convey the idea of being at a specific boundary or edge of a landmass next to the sea. \"On the coast\" suggests a location that is directly adjacent to the sea, emphasizing the idea of being right at the seaside, where the land meets the water.\n\nOn the other hand, \"in\" is used for more general locations that are considered to be inside an area, such as \"in Spain\" or \"in a city.\" It implies being within the borders or confines of a larger, more enclosed space, not necessarily at the edge or boundary."
+    },
+    {
+      "spanish": [
+        "¿Cómo se llaman esos anillos que las chicas usan en los brazos o piernas?"
+      ],
+      "english": [
+        "What are those rings called that girls wear on their arms or legs?"
+      ],
+      "bold": [
+        "called",
+        "wear on"
+      ],
+      "definition": {
+        "called": "This term is used to ask for the name or term designated for an object or concept.",
+        "wear on": "The phrase 'wear on' indicates the placement or positioning of an item on one's body. In this case, it refers to rings placed on the arms or legs."
+      }
     }
   ]
 }

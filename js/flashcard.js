@@ -11,7 +11,17 @@
             this.english = json.english || [];
             this.spanish = json.spanish || [];
             this.bold = json.bold || [];
-            this.definition = json.definition || '';
+
+            if (typeof json.definition === 'object') {
+                this.definition = '';
+                for (let key in json.definition) {
+                    if (json.definition.hasOwnProperty(key)) {
+                        this.definition += `${key}: ${json.definition[key]}<br><br>`;
+                    }
+                }
+            } else {
+                this.definition = json.definition || '';
+            }
         }
 
         randomSpanishPhrase() {
@@ -57,7 +67,7 @@
                 span.addEventListener('click', (e) => {
                     e.stopPropagation();
                     let modal = new bootstrap.Modal(document.getElementById('infoModal'));
-                    document.querySelector('#infoModal .modal-body').textContent = this.phrase.definition;
+                    document.querySelector('#infoModal .modal-body').innerHTML = this.phrase.definition;
                     modal.show();
                 });
 
