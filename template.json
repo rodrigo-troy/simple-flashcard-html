@@ -20,9 +20,15 @@
         ""
       ],
       "bold": [
-        ""
+        "definition1",
+        "definition2",
+        "definitionN"
       ],
-      "definition": ""
+      "definition": {
+        "definition1": "",
+        "definition2": "",
+        "definitionN": ""
+      }
     }
   ]
 }
